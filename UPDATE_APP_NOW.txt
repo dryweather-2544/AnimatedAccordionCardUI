@@ -1,0 +1,18 @@
+========================================
+RUN THIS COMMAND TO UPDATE APP.TSX NOW
+========================================
+
+Copy and paste this EXACT command into your terminal:
+
+cd /tmp/sandbox/src/app && cp App.tsx App_BACKUP.txt && (head -n 954 App.tsx; echo ""; tail -n +4 STEP2_ENHANCED_REPLACEMENT.tsx; echo ""; tail -n +4 STEP3_ENHANCED.tsx; echo ""; tail -n +4 STEP4_ENHANCED.tsx; echo ""; tail -n +4 STEP5_ENHANCED.tsx; echo ""; tail -n +4 OBJECTION_HANDLING_ENHANCED.tsx; echo ""; tail -n +4 POST_CONVERSION_ENHANCED.tsx; tail -n 5 App.tsx) > App_NEW.tsx && mv App_NEW.tsx App.tsx && echo "✅ Done! App.tsx updated successfully"
+
+========================================
+
+This single command will:
+1. Backup your current App.tsx to App_BACKUP.txt
+2. Take lines 1-954 from App.tsx (header + STEP 1)
+3. Add all 6 enhanced sections (STEP 2 through POST CONVERSION)
+4. Add the footer (last 5 lines)
+5. Replace App.tsx with the complete updated version
+
+After running this, refresh your browser and you'll see all the enhanced components in every accordion section!

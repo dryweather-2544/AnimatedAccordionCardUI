@@ -1,0 +1,20 @@
+
+          {/* Far Right column - Relationship Building */}
+          <div className="w-80 flex-shrink-0 ml-28">
+            <div className="relative">
+              <AccordionCard
+                title="RELATIONSHIP BUILDING"
+                description="transform clients into loyal partners"
+                icon={<Heart className="size-6" />}
+                color="linear-gradient(135deg, #E91E63 0%, #C2185B 100%)"
+                width="100%"
+                brightness={0.75}
+                content={`Relationship building is the foundation of long term revenue. When clients feel emotionally connected, they spend more, stay longer, and forgive mistakes.
+
+The goal is to create genuine appearing emotional investment. You move clients through stages: S0 (stranger) to S1 (comfortable), S1 to S2 (liking you), S2 to S3 (in love).
+
+Each stage requires specific language, timing, and emotional positioning. The examples here show you exactly how to escalate connection at each level.`}
+                nestedItems={RELATIONSHIP_BUILDING_NESTED_ITEMS}
+              />
+            </div>
+          </div>

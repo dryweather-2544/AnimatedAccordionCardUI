@@ -1,0 +1,6 @@
+          {
+            title: "Step 4: Emphasize Urgency & Add Bonus",
+            description: "Pitch the sale by explaining why the opportunity is special <strong>right now</strong>. Add a bonus to sweeten the deal.",
+            example: "<strong>Example:</strong> <em>\"fuckk baby, i'm just thinking of all the ways you could explore me.. and hmmm you know.. i'd love to make you a lil surprise showing how your wet i got with you.. wait here and let me show you how i want you to slide it in and spank me okay? 🥹🩷<br /><br />if you get this NOW ? Ive got 3 surprises waiting for you\"</em>",
+            note: "<strong>Urgency forces action.</strong> A limited-time offer combats indecision. The bonus creates fear of missing extra value, not just the core content."
+          },

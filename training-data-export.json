@@ -1,0 +1,1150 @@
+{
+  "metadata": {
+    "exportDate": "2026-04-29T18:03:39.556Z",
+    "version": "1.0",
+    "description": "Complete training material export from Figma Make application",
+    "totalModules": 6
+  },
+  "modules": {
+    "pricingStrategy": {
+      "title": "PRICING STRATEGY & VALUE MAXIMIZATION",
+      "skillType": "Revenue Strategy",
+      "accentColor": "#10B981",
+      "overview": {
+        "description": "<div class=\"space-y-6\">\n      <div>\n        <h3 class=\"font-bold text-white text-xl mb-3\">Your Goal: Maximize Revenue and Value</h3>\n        <p class=\"text-slate-300 mb-3\">The fundamental principle of pricing is simple: your goal is to maximize revenue while maintaining perceived value.</p>\n        <div class=\"p-4 rounded-lg\" style=\"background: rgba(16, 185, 129, 0.1); border: 1px solid rgba(16, 185, 129, 0.3);\">\n          <p class=\"text-slate-200 mb-2\"><strong>The Strategy:</strong></p>\n          <p class=\"text-slate-300 text-sm\">You want the client to pay <strong>as much as possible</strong> for content that meets or exceeds their expectations. This means aligning price points with perceived exclusivity, effort, and personalization.</p>\n        </div>\n      </div>\n      \n      <div>\n        <h3 class=\"font-bold text-white text-xl mb-3\">The Foundation: Complimentary vs. Paid Content</h3>\n        <div class=\"grid grid-cols-2 gap-4 my-4\">\n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n            <p class=\"font-bold text-green-400 mb-2\">Complimentary Content</p>\n            <p class=\"text-slate-300 text-sm mb-2\"><strong>Purpose:</strong> Build engagement and emotional investment</p>\n            <p class=\"text-slate-400 text-xs\">Used strategically to create connection, build anticipation, and establish your value before transitioning to paid offers.</p>\n          </div>\n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(16, 185, 129, 0.15); border: 1px solid rgba(16, 185, 129, 0.3);\">\n            <p class=\"font-bold text-slate-200 mb-2\">Pay-Per-View (PPV)</p>\n            <p class=\"text-slate-300 text-sm mb-2\"><strong>Purpose:</strong> Capture revenue from invested clients</p>\n            <p class=\"text-slate-400 text-xs\">Once emotional investment is secured, PPV becomes the vehicle for converting that investment into revenue.</p>\n          </div>\n        </div>\n      </div>\n      \n      <div>\n        <h3 class=\"font-bold text-white text-xl mb-3\">The Critical Insight: Price Reflects Perceived Value</h3>\n        <p class=\"text-slate-300 mb-3\">Your pricing is not arbitrary. It is a signal of value, exclusivity, and effort.</p>\n        <ul class=\"space-y-2 ml-4\">\n          <li class=\"text-slate-300\"><strong>Low Price = Low Value:</strong> If content is too cheap, clients assume it is generic, mass-produced, or low effort.</li>\n          <li class=\"text-slate-300\"><strong>High Price = High Value:</strong> Premium pricing signals exclusivity, personalization, and rare access.</li>\n          <li class=\"text-slate-300\"><strong>Your Job:</strong> Match the price to the story you are telling about the content.</li>\n        </ul>\n      </div>\n    </div>",
+        "goal": "Master strategic pricing frameworks that maximize revenue while maintaining client satisfaction. Learn to price based on perceived value, content type, and client psychology rather than arbitrary numbers."
+      },
+      "steps": [
+        {
+          "number": 1,
+          "title": "The Two-Tier Framework",
+          "content": "<div class=\"space-y-4\">\n        <p>All content falls into one of two categories:</p>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(255, 255, 255, 0.05);\">\n          <p class=\"font-bold text-green-400 mb-2\">TIER 1: Complimentary Content</p>\n          <p class=\"text-slate-300 text-sm mb-3\"><strong>Purpose:</strong> Engagement and emotional investment</p>\n          <div class=\"space-y-2 ml-4\">\n            <p class=\"text-slate-400 text-sm\"><strong>When to Use:</strong> Building rapport, maintaining connection, rewarding loyalty</p>\n            <p class=\"text-slate-400 text-sm\"><strong>Strategic Value:</strong> Creates emotional debt without financial cost. Makes clients feel valued and special.</p>\n            <p class=\"text-slate-400 text-sm\"><strong>Examples:</strong> Thank-you messages, spontaneous check-ins, small teasers that build anticipation</p>\n          </div>\n        </div>\n        \n        <div class=\"p-4 rounded-lg\" style=\"background: rgba(16, 185, 129, 0.15); border: 1px solid rgba(16, 185, 129, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-2\">TIER 2: Pay-Per-View (PPV)</p>\n          <p class=\"text-slate-300 text-sm mb-3\"><strong>Purpose:</strong> Revenue generation from invested clients</p>\n          <div class=\"space-y-2 ml-4\">\n            <p class=\"text-slate-400 text-sm\"><strong>When to Use:</strong> After emotional investment is established, when offering personalized or exclusive content</p>\n            <p class=\"text-slate-400 text-sm\"><strong>Strategic Value:</strong> Converts emotional connection into financial commitment</p>\n            <p class=\"text-slate-400 text-sm\"><strong>Examples:</strong> Custom videos, exclusive photosets, premium experiences</p>\n          </div>\n        </div>\n        \n        <div class=\"mt-4 p-3 rounded\" style=\"background: rgba(59, 110, 235, 0.1);\">\n          <p class=\"text-slate-300 text-sm\"><strong>Key Principle:</strong> Complimentary content is the investment you make. PPV is the return you collect. Never skip the investment phase.</p>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 2,
+          "title": "PPV Pricing Structure: The Purchase Number Method",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 mb-3\">Price your PPV based on the client's purchase history. This method recognizes that trust and perceived value increase with each transaction.</p>\n        \n        <div class=\"overflow-x-auto\">\n          <table class=\"w-full text-sm\" style=\"border-collapse: separate; border-spacing: 0;\">\n            <thead>\n              <tr style=\"background: rgba(16, 185, 129, 0.15);\">\n                <th class=\"p-3 text-left text-slate-200 font-bold\" style=\"border-bottom: 1px solid rgba(255,255,255,0.1);\">Purchase Number</th>\n                <th class=\"p-3 text-left text-slate-200 font-bold\" style=\"border-bottom: 1px solid rgba(255,255,255,0.1);\">Price Range</th>\n                <th class=\"p-3 text-left text-slate-200 font-bold\" style=\"border-bottom: 1px solid rgba(255,255,255,0.1);\">Strategic Rationale</th>\n              </tr>\n            </thead>\n            <tbody>\n              <tr style=\"background: rgba(255, 255, 255, 0.02);\">\n                <td class=\"p-3 text-slate-300\" style=\"border-bottom: 1px solid rgba(255,255,255,0.05);\">1st Purchase</td>\n                <td class=\"p-3 text-green-400 font-mono\" style=\"border-bottom: 1px solid rgba(255,255,255,0.05);\">$30-$50</td>\n                <td class=\"p-3 text-slate-400\" style=\"border-bottom: 1px solid rgba(255,255,255,0.05);\">Lower barrier to entry. The goal is conversion, not maximum revenue. You are building trust.</td>\n              </tr>\n              <tr style=\"background: rgba(255, 255, 255, 0.04);\">\n                <td class=\"p-3 text-slate-300\" style=\"border-bottom: 1px solid rgba(255,255,255,0.05);\">2nd Purchase</td>\n                <td class=\"p-3 text-green-400 font-mono\" style=\"border-bottom: 1px solid rgba(255,255,255,0.05);\">$50-$70</td>\n                <td class=\"p-3 text-slate-400\" style=\"border-bottom: 1px solid rgba(255,255,255,0.05);\">Client has proven buying behavior. You can increase the price slightly while maintaining value perception.</td>\n              </tr>\n              <tr style=\"background: rgba(255, 255, 255, 0.02);\">\n                <td class=\"p-3 text-slate-300\" style=\"border-bottom: 1px solid rgba(255,255,255,0.05);\">3rd+ Purchase</td>\n                <td class=\"p-3 text-green-400 font-mono\" style=\"border-bottom: 1px solid rgba(255,255,255,0.05);\">$70-$100+</td>\n                <td class=\"p-3 text-slate-400\" style=\"border-bottom: 1px solid rgba(255,255,255,0.05);\">Client is now a repeat buyer. They trust you, and their perceived value is high. You can charge premium prices for personalized or exclusive content.</td>\n              </tr>\n            </tbody>\n          </table>\n        </div>\n        \n        <div class=\"mt-4 p-3 rounded\" style=\"background: rgba(59, 110, 235, 0.1);\">\n          <p class=\"text-slate-300 text-sm\"><strong>Why This Works:</strong> Each purchase deepens emotional investment. By the third purchase, the client is mentally committed to the relationship, making them less price-sensitive and more value-focused.</p>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 3,
+          "title": "Duration-Based Pricing Formula",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 mb-3\">Video length is a direct signal of effort and value. Use duration as a foundation for your pricing structure.</p>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(16, 185, 129, 0.1); border: 1px solid rgba(16, 185, 129, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-3\">The Formula:</p>\n          <div class=\"space-y-3\">\n            <div class=\"flex items-center gap-3\">\n              <div class=\"flex-shrink-0 w-24 text-green-400 font-mono text-sm\">1-3 min</div>\n              <div class=\"flex-shrink-0 w-28 text-slate-300 font-mono\">$30-$50</div>\n              <div class=\"text-slate-400 text-sm\">Quick, focused content. Good for first-time buyers or spontaneous offers.</div>\n            </div>\n            <div class=\"flex items-center gap-3\">\n              <div class=\"flex-shrink-0 w-24 text-green-400 font-mono text-sm\">4-6 min</div>\n              <div class=\"flex-shrink-0 w-28 text-slate-300 font-mono\">$50-$80</div>\n              <div class=\"text-slate-400 text-sm\">Standard length. Allows for narrative, buildup, and satisfying payoff.</div>\n            </div>\n            <div class=\"flex items-center gap-3\">\n              <div class=\"flex-shrink-0 w-24 text-green-400 font-mono text-sm\">7-10 min</div>\n              <div class=\"flex-shrink-0 w-28 text-slate-300 font-mono\">$80-$120</div>\n              <div class=\"text-slate-400 text-sm\">Premium content. Signals significant effort, personalization, and exclusivity.</div>\n            </div>\n            <div class=\"flex items-center gap-3\">\n              <div class=\"flex-shrink-0 w-24 text-green-400 font-mono text-sm\">10+ min</div>\n              <div class=\"flex-shrink-0 w-28 text-slate-300 font-mono\">$120-$200+</div>\n              <div class=\"text-slate-400 text-sm\">Ultra-premium. Reserved for highly invested clients or fully custom experiences.</div>\n            </div>\n          </div>\n        </div>\n        \n        <div class=\"p-3 rounded\" style=\"background: rgba(255, 255, 255, 0.05);\">\n          <p class=\"text-slate-300 text-sm mb-2\"><strong>Important Note:</strong></p>\n          <p class=\"text-slate-400 text-xs\">Duration is not the only factor. Content explicitness, customization level, and client investment history all affect final price. Use duration as your starting point, then adjust based on these multipliers.</p>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 4,
+          "title": "Content Explicitness: The Value Multiplier",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 mb-3\">Explicitness level directly impacts perceived value and willingness to pay. More explicit content commands higher prices because it signals exclusivity and risk.</p>\n        \n        <div class=\"space-y-3\">\n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n            <p class=\"font-bold text-slate-200 mb-2\">Soft Content (Tease/Implied)</p>\n            <div class=\"flex items-center gap-3 mb-2\">\n              <span class=\"text-green-400 font-mono text-sm\">Multiplier: 1.0x</span>\n              <span class=\"text-slate-400 text-xs\">(Baseline pricing)</span>\n            </div>\n            <p class=\"text-slate-300 text-sm mb-2\"><strong>Examples:</strong> Lingerie shots, suggestive poses, implied nudity</p>\n            <p class=\"text-slate-400 text-xs\"><strong>Strategy:</strong> Good for first-time buyers or building anticipation. Price at the lower end of your duration range.</p>\n          </div>\n          \n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(16, 185, 129, 0.1);\">\n            <p class=\"font-bold text-slate-200 mb-2\">Medium Explicitness (Partial Nudity)</p>\n            <div class=\"flex items-center gap-3 mb-2\">\n              <span class=\"text-green-400 font-mono text-sm\">Multiplier: 1.3x-1.5x</span>\n              <span class=\"text-slate-400 text-xs\">(30-50% premium)</span>\n            </div>\n            <p class=\"text-slate-300 text-sm mb-2\"><strong>Examples:</strong> Topless content, partial nudity, suggestive but not fully explicit</p>\n            <p class=\"text-slate-400 text-xs\"><strong>Strategy:</strong> Price in the middle of your range. Good for established clients who have made 1-2 purchases.</p>\n          </div>\n          \n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(16, 185, 129, 0.15); border: 1px solid rgba(16, 185, 129, 0.3);\">\n            <p class=\"font-bold text-slate-200 mb-2\">High Explicitness (Fully Explicit)</p>\n            <div class=\"flex items-center gap-3 mb-2\">\n              <span class=\"text-green-400 font-mono text-sm\">Multiplier: 1.5x-2.0x</span>\n              <span class=\"text-slate-400 text-xs\">(50-100% premium)</span>\n            </div>\n            <p class=\"text-slate-300 text-sm mb-2\"><strong>Examples:</strong> Fully explicit content, sexual acts, maximum exposure</p>\n            <p class=\"text-slate-400 text-xs\"><strong>Strategy:</strong> Premium pricing. Reserved for repeat buyers (3+ purchases) or clients who have demonstrated high investment.</p>\n          </div>\n        </div>\n        \n        <div class=\"mt-4 p-3 rounded\" style=\"background: rgba(59, 110, 235, 0.1);\">\n          <p class=\"text-slate-300 text-sm\"><strong>Application Example:</strong> A 5-minute video at baseline ($50-$80) becomes $75-$120 when medium explicitness is added, and $100-$160 when fully explicit. Same duration, higher perceived value.</p>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 5,
+          "title": "The Content Sets Strategy",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 mb-3\">Bundling multiple pieces of content into themed sets creates perceived abundance and justifies higher price points.</p>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(16, 185, 129, 0.15); border: 1px solid rgba(16, 185, 129, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-3\">Why Content Sets Work:</p>\n          <ul class=\"space-y-2 ml-4\">\n            <li class=\"text-slate-300 text-sm\"><strong>Perceived Value:</strong> Multiple items feel like a \"deal\" even at premium prices</li>\n            <li class=\"text-slate-300 text-sm\"><strong>Narrative Flow:</strong> Sets tell a story, creating emotional investment across multiple pieces</li>\n            <li class=\"text-slate-300 text-sm\"><strong>Price Anchoring:</strong> $100 for one item feels expensive. $150 for five items feels like a bargain.</li>\n          </ul>\n        </div>\n        \n        <div class=\"space-y-3 mb-4\">\n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n            <p class=\"font-bold text-green-400 mb-2\">Example Set: \"Morning Routine\"</p>\n            <div class=\"ml-4 space-y-1 mb-3\">\n              <p class=\"text-slate-400 text-sm\">• 3 photos (waking up, stretching, morning light)</p>\n              <p class=\"text-slate-400 text-sm\">• 2 short videos (2-3 min each, shower scene + getting dressed)</p>\n              <p class=\"text-slate-400 text-sm\">• 1 voice message (\"good morning\" greeting)</p>\n            </div>\n            <div class=\"flex items-center gap-3\">\n              <span class=\"text-slate-300 text-sm\"><strong>Total Value:</strong></span>\n              <span class=\"text-green-400 font-mono\">$120-$180</span>\n            </div>\n            <p class=\"text-slate-400 text-xs mt-2\"><strong>Why It Works:</strong> Creates a complete experience. Client feels they are getting a full narrative, not just isolated content.</p>\n          </div>\n        </div>\n        \n        <div class=\"p-3 rounded\" style=\"background: rgba(59, 110, 235, 0.1);\">\n          <p class=\"text-slate-300 text-sm mb-2\"><strong>When to Use Sets:</strong></p>\n          <p class=\"text-slate-400 text-xs\">Best for clients who have made 2+ purchases. They trust you, and the bundle format lets you capture more revenue per transaction while delivering high perceived value.</p>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 6,
+          "title": "KYC Application: Client Preferences Drive Pricing",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 mb-3\">The information you gathered during KYC directly impacts pricing strategy. Different client types justify different price points.</p>\n        \n        <div class=\"space-y-3\">\n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n            <p class=\"font-bold text-slate-200 mb-2\">High-Specificity Clients</p>\n            <p class=\"text-slate-300 text-sm mb-2\"><strong>Profile:</strong> Detailed kinks, specific scenarios, unique requests</p>\n            <p class=\"text-slate-400 text-xs mb-2\"><strong>Why They Pay More:</strong> They know exactly what they want and are willing to pay premium prices for exact matches to their desires.</p>\n            <div class=\"mt-2 pt-2\" style=\"border-top: 1px solid rgba(255,255,255,0.1);\">\n              <p class=\"text-green-400 text-sm font-mono\">Recommended Pricing: Upper range (+20-30%)</p>\n            </div>\n          </div>\n          \n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n            <p class=\"font-bold text-slate-200 mb-2\">Emotional Connection Seekers</p>\n            <p class=\"text-slate-300 text-sm mb-2\"><strong>Profile:</strong> Prioritize conversation, personalization, feeling special</p>\n            <p class=\"text-slate-400 text-xs mb-2\"><strong>Why They Pay More:</strong> They are not buying content. They are buying the feeling of exclusive connection. Price reflects relationship value, not just content.</p>\n            <div class=\"mt-2 pt-2\" style=\"border-top: 1px solid rgba(255,255,255,0.1);\">\n              <p class=\"text-green-400 text-sm font-mono\">Recommended Pricing: Premium tier (+30-50%)</p>\n            </div>\n          </div>\n          \n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n            <p class=\"font-bold text-slate-200 mb-2\">Casual Browsers</p>\n            <p class=\"text-slate-300 text-sm mb-2\"><strong>Profile:</strong> General interest, no strong preferences, exploring</p>\n            <p class=\"text-slate-400 text-xs mb-2\"><strong>Why They Pay Less (Initially):</strong> Low emotional investment. Your goal is conversion, not maximum revenue on first purchase.</p>\n            <div class=\"mt-2 pt-2\" style=\"border-top: 1px solid rgba(255,255,255,0.1);\">\n              <p class=\"text-green-400 text-sm font-mono\">Recommended Pricing: Entry-level ($30-$50)</p>\n            </div>\n          </div>\n        </div>\n        \n        <div class=\"mt-4 p-3 rounded\" style=\"background: rgba(59, 110, 235, 0.1);\">\n          <p class=\"text-slate-300 text-sm\"><strong>Strategic Insight:</strong> Use KYC data to segment clients by value potential. High-specificity and emotional connection seekers are your premium clients. Casual browsers are conversion opportunities.</p>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 7,
+          "title": "The Scarcity and Urgency Principle",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 mb-3\">Limited availability and time-sensitive offers increase perceived value and urgency to purchase.</p>\n        \n        <div class=\"grid grid-cols-2 gap-4 mb-4\">\n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(16, 185, 129, 0.1);\">\n            <p class=\"font-bold text-green-400 mb-2\">Scarcity Tactics</p>\n            <ul class=\"space-y-2 ml-4\">\n              <li class=\"text-slate-300 text-sm\">\"Only 3 custom slots available this week\"</li>\n              <li class=\"text-slate-300 text-sm\">\"Exclusive content, won't be available again\"</li>\n              <li class=\"text-slate-300 text-sm\">\"Limited edition photoset\"</li>\n            </ul>\n            <p class=\"text-slate-400 text-xs mt-3\"><strong>Effect:</strong> Creates fear of missing out. Clients pay premium to secure rare access.</p>\n          </div>\n          \n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(16, 185, 129, 0.1);\">\n            <p class=\"font-bold text-green-400 mb-2\">Urgency Tactics</p>\n            <ul class=\"space-y-2 ml-4\">\n              <li class=\"text-slate-300 text-sm\">\"Flash sale, next 24 hours only\"</li>\n              <li class=\"text-slate-300 text-sm\">\"Price increases after tonight\"</li>\n              <li class=\"text-slate-300 text-sm\">\"Early access for first 5 buyers\"</li>\n            </ul>\n            <p class=\"text-slate-400 text-xs mt-3\"><strong>Effect:</strong> Forces immediate decision. Reduces time to deliberate, increases conversion.</p>\n          </div>\n        </div>\n        \n        <div class=\"p-4 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n          <p class=\"font-bold text-slate-200 mb-2\">Real Application:</p>\n          <p class=\"text-slate-300 text-sm mb-3\">\"I'm only taking 3 custom video requests this weekend. If you want something made just for you, now's the time. After that, I'm booked for the next two weeks.\"</p>\n          <p class=\"text-slate-400 text-xs\"><strong>Why This Works:</strong> Combines scarcity (only 3 slots) with urgency (this weekend only). Client perceives high demand and feels pressure to act fast.</p>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 8,
+          "title": "Price Anchoring and Upselling",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 mb-3\">How you present your pricing structure affects perceived value. Use price anchoring to make premium options feel reasonable.</p>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(16, 185, 129, 0.15); border: 1px solid rgba(16, 185, 129, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-3\">The Three-Tier Approach:</p>\n          <div class=\"space-y-3\">\n            <div class=\"flex items-start gap-3\">\n              <div class=\"flex-shrink-0 w-20 text-slate-400 text-xs uppercase pt-1\">Basic</div>\n              <div class=\"flex-1\">\n                <div class=\"text-green-400 font-mono mb-1\">$40</div>\n                <p class=\"text-slate-400 text-xs\">2-3 min video, standard content, quick turnaround</p>\n              </div>\n            </div>\n            <div class=\"flex items-start gap-3\">\n              <div class=\"flex-shrink-0 w-20 text-green-400 text-xs uppercase pt-1 font-bold\">Premium</div>\n              <div class=\"flex-1\">\n                <div class=\"text-green-400 font-mono mb-1\">$80</div>\n                <p class=\"text-slate-400 text-xs\">5-6 min video, personalized elements, your name mentioned</p>\n              </div>\n            </div>\n            <div class=\"flex items-start gap-3\">\n              <div class=\"flex-shrink-0 w-20 text-slate-400 text-xs uppercase pt-1\">Ultra</div>\n              <div class=\"flex-1\">\n                <div class=\"text-green-400 font-mono mb-1\">$150</div>\n                <p class=\"text-slate-400 text-xs\">10+ min custom video, full script based on your fantasy, exclusive and never shared</p>\n              </div>\n            </div>\n          </div>\n        </div>\n        \n        <div class=\"p-3 rounded\" style=\"background: rgba(255, 255, 255, 0.05);\">\n          <p class=\"text-slate-300 text-sm mb-2\"><strong>Why This Works:</strong></p>\n          <ul class=\"space-y-1 ml-4\">\n            <li class=\"text-slate-400 text-xs\">The $150 option makes $80 feel reasonable by comparison</li>\n            <li class=\"text-slate-400 text-xs\">Most clients will choose the middle option, feeling they got a \"good deal\" without choosing the cheapest</li>\n            <li class=\"text-slate-400 text-xs\">High-value clients will choose Ultra, dramatically increasing average transaction value</li>\n          </ul>\n        </div>\n        \n        <div class=\"mt-4 p-3 rounded\" style=\"background: rgba(59, 110, 235, 0.1);\">\n          <p class=\"text-slate-300 text-sm\"><strong>Pro Tip:</strong> Always present the highest price first. It sets the anchor, making everything else feel more affordable.</p>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 9,
+          "title": "Personalization Premium: The Highest Multiplier",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 mb-3\">Custom, personalized content commands the highest prices because it signals exclusivity and direct attention.</p>\n        \n        <div class=\"space-y-3 mb-4\">\n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n            <p class=\"font-bold text-slate-200 mb-2\">Generic Content</p>\n            <p class=\"text-slate-300 text-sm mb-2\"><strong>Characteristics:</strong> Pre-recorded, no client-specific elements, mass-sent</p>\n            <div class=\"flex items-center gap-3\">\n              <span class=\"text-green-400 font-mono text-sm\">Multiplier: 1.0x</span>\n              <span class=\"text-slate-400 text-xs\">(Baseline)</span>\n            </div>\n          </div>\n          \n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(16, 185, 129, 0.1);\">\n            <p class=\"font-bold text-slate-200 mb-2\">Semi-Personalized</p>\n            <p class=\"text-slate-300 text-sm mb-2\"><strong>Characteristics:</strong> Client's name mentioned, references to previous conversations, some customization</p>\n            <div class=\"flex items-center gap-3\">\n              <span class=\"text-green-400 font-mono text-sm\">Multiplier: 1.5x</span>\n              <span class=\"text-slate-400 text-xs\">(50% premium)</span>\n            </div>\n          </div>\n          \n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(16, 185, 129, 0.15); border: 1px solid rgba(16, 185, 129, 0.3);\">\n            <p class=\"font-bold text-slate-200 mb-2\">Fully Custom</p>\n            <p class=\"text-slate-300 text-sm mb-2\"><strong>Characteristics:</strong> Created specifically for one client, script based on their fantasy, completely unique, never shared</p>\n            <div class=\"flex items-center gap-3\">\n              <span class=\"text-green-400 font-mono text-sm\">Multiplier: 2.0x-3.0x</span>\n              <span class=\"text-slate-400 text-xs\">(100-200% premium)</span>\n            </div>\n          </div>\n        </div>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(255, 255, 255, 0.05);\">\n          <p class=\"font-bold text-slate-200 mb-2\">Real Example:</p>\n          <p class=\"text-slate-300 text-sm mb-3\">5-minute video, baseline price $60</p>\n          <div class=\"space-y-2 ml-4\">\n            <div class=\"flex justify-between items-center\">\n              <span class=\"text-slate-400 text-sm\">Generic version</span>\n              <span class=\"text-green-400 font-mono\">$60</span>\n            </div>\n            <div class=\"flex justify-between items-center\">\n              <span class=\"text-slate-400 text-sm\">With name mentioned</span>\n              <span class=\"text-green-400 font-mono\">$90</span>\n            </div>\n            <div class=\"flex justify-between items-center\">\n              <span class=\"text-slate-400 text-sm\">Fully custom script</span>\n              <span class=\"text-green-400 font-mono\">$150-$180</span>\n            </div>\n          </div>\n        </div>\n        \n        <div class=\"p-3 rounded\" style=\"background: rgba(59, 110, 235, 0.1);\">\n          <p class=\"text-slate-300 text-sm\"><strong>Key Insight:</strong> Personalization justifies exponential price increases because it transforms content from a product into an experience. Clients will pay dramatically more for something that feels made exclusively for them.</p>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 10,
+          "title": "Post-Purchase Value Reinforcement",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 mb-3\">What you do after the purchase is as important as the sale itself. Reinforce the value to maintain satisfaction and set up future purchases.</p>\n        \n        <div class=\"space-y-3 mb-4\">\n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(16, 185, 129, 0.1);\">\n            <p class=\"font-bold text-green-400 mb-2\">Immediate Follow-Up</p>\n            <p class=\"text-slate-300 text-sm mb-2\"><strong>Action:</strong> Send a brief message after delivery</p>\n            <p class=\"text-slate-400 text-xs mb-3\"><strong>Example:</strong> \"I really enjoyed making this for you. Let me know what you think when you get a chance.\"</p>\n            <p class=\"text-slate-400 text-xs\"><strong>Effect:</strong> Shows you care about their experience. Makes the purchase feel like a personal interaction, not just a transaction.</p>\n          </div>\n          \n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(16, 185, 129, 0.1);\">\n            <p class=\"font-bold text-green-400 mb-2\">Soliciting Feedback</p>\n            <p class=\"text-slate-300 text-sm mb-2\"><strong>Action:</strong> Ask if the content met their expectations</p>\n            <p class=\"text-slate-400 text-xs mb-3\"><strong>Example:</strong> \"Did this match what you were hoping for? I want to make sure it was exactly what you wanted.\"</p>\n            <p class=\"text-slate-400 text-xs\"><strong>Effect:</strong> Gives them a voice in the process. They feel heard and valued, increasing likelihood of repeat purchases.</p>\n          </div>\n          \n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(16, 185, 129, 0.1);\">\n            <p class=\"font-bold text-green-400 mb-2\">Teasing Future Content</p>\n            <p class=\"text-slate-300 text-sm mb-2\"><strong>Action:</strong> Plant seeds for the next purchase</p>\n            <p class=\"text-slate-400 text-xs mb-3\"><strong>Example:</strong> \"I'm thinking about doing something even more intense next time. Would you be interested in seeing that?\"</p>\n            <p class=\"text-slate-400 text-xs\"><strong>Effect:</strong> Creates anticipation. The current purchase becomes the first chapter in an ongoing story.</p>\n          </div>\n        </div>\n        \n        <div class=\"p-3 rounded\" style=\"background: rgba(255, 255, 255, 0.05);\">\n          <p class=\"text-slate-300 text-sm mb-2\"><strong>Why Post-Purchase Matters:</strong></p>\n          <p class=\"text-slate-400 text-xs\">Buyers often experience post-purchase dissonance (\"Did I just spend that much?\"). Your job is to eliminate that doubt by reinforcing the value, showing gratitude, and making them feel special. When done correctly, they leave the interaction satisfied and ready to buy again.</p>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 11,
+          "title": "The Revenue Maximization Framework (Summary)",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 mb-3\">All pricing decisions flow from this framework. Use it as your strategic foundation.</p>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(16, 185, 129, 0.15); border: 1px solid rgba(16, 185, 129, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-3\">The Complete Formula:</p>\n          <div class=\"space-y-3 text-sm\">\n            <div class=\"flex items-start gap-3\">\n              <span class=\"text-green-400 font-mono flex-shrink-0\">BASE</span>\n              <p class=\"text-slate-300\">Start with duration-based pricing (1-3 min = $30-50, 4-6 min = $50-80, etc.)</p>\n            </div>\n            <div class=\"flex items-center gap-2 ml-12\">\n              <span class=\"text-slate-500\">↓</span>\n            </div>\n            <div class=\"flex items-start gap-3\">\n              <span class=\"text-green-400 font-mono flex-shrink-0\">×</span>\n              <p class=\"text-slate-300\">Multiply by explicitness level (1.0x soft, 1.5x medium, 2.0x explicit)</p>\n            </div>\n            <div class=\"flex items-center gap-2 ml-12\">\n              <span class=\"text-slate-500\">↓</span>\n            </div>\n            <div class=\"flex items-start gap-3\">\n              <span class=\"text-green-400 font-mono flex-shrink-0\">×</span>\n              <p class=\"text-slate-300\">Multiply by personalization level (1.0x generic, 1.5x semi-custom, 2.5x fully custom)</p>\n            </div>\n            <div class=\"flex items-center gap-2 ml-12\">\n              <span class=\"text-slate-500\">↓</span>\n            </div>\n            <div class=\"flex items-start gap-3\">\n              <span class=\"text-green-400 font-mono flex-shrink-0\">+</span>\n              <p class=\"text-slate-300\">Adjust based on purchase number ($30-50 first, $50-70 second, $70-100+ third)</p>\n            </div>\n            <div class=\"flex items-center gap-2 ml-12\">\n              <span class=\"text-slate-500\">↓</span>\n            </div>\n            <div class=\"flex items-start gap-3\">\n              <span class=\"text-green-400 font-mono flex-shrink-0\">+</span>\n              <p class=\"text-slate-300\">Add scarcity/urgency premium when applicable (+15-30%)</p>\n            </div>\n            <div class=\"flex items-center gap-2 ml-12\">\n              <span class=\"text-slate-500\">↓</span>\n            </div>\n            <div class=\"flex items-start gap-3\">\n              <span class=\"text-green-400 font-mono flex-shrink-0\">=</span>\n              <p class=\"text-slate-200 font-bold\">FINAL PRICE</p>\n            </div>\n          </div>\n        </div>\n        \n        <div class=\"p-4 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n          <p class=\"font-bold text-slate-200 mb-3\">Worked Example:</p>\n          <div class=\"space-y-2 text-sm ml-4\">\n            <p class=\"text-slate-300\">5-minute video (base: $60)</p>\n            <p class=\"text-slate-300\">Medium explicitness (×1.4 = $84)</p>\n            <p class=\"text-slate-300\">Fully custom script (×2.0 = $168)</p>\n            <p class=\"text-slate-300\">Third purchase (adjust to upper range = $180)</p>\n            <p class=\"text-slate-300\">Limited slots this week (scarcity +20% = $216)</p>\n            <div class=\"pt-2 mt-2\" style=\"border-top: 1px solid rgba(255,255,255,0.1);\">\n              <div class=\"flex items-center gap-3\">\n                <span class=\"text-slate-400\">Final Price:</span>\n                <span class=\"text-green-400 font-mono text-lg\">$216</span>\n              </div>\n            </div>\n          </div>\n          <p class=\"text-slate-400 text-xs mt-3\"><strong>Client Perception:</strong> \"This is expensive, but it's exactly what I want, it's made just for me, and I might not get another chance. Worth it.\"</p>\n        </div>\n      </div>",
+          "completed": false
+        }
+      ],
+      "actionableContent": [
+        {
+          "id": "pricing-decision-1",
+          "type": "decision",
+          "title": "First Purchase: Choose Your Entry Price",
+          "question": "A new client is interested in a 4-minute semi-explicit video. What price do you quote?",
+          "correctAnswer": "$40-$50 to lower the barrier and secure the first conversion",
+          "wrongAnswers": [
+            "$80-$100 to establish premium positioning from the start",
+            "$25-$30 to make it irresistible and guarantee the purchase",
+            "$60-$70 to split the difference between accessible and premium"
+          ],
+          "rationale": "First purchases are about conversion, not maximum revenue. Price between $40-$50 to reduce friction while still maintaining value perception. Once emotional investment is established, you can increase prices significantly on subsequent purchases.",
+          "signals": {
+            "positive": [
+              "Client is new (purchase number: 1)",
+              "They have shown interest but not yet committed",
+              "Goal is to establish trust and buying behavior"
+            ],
+            "negative": [
+              "No purchase history to justify premium pricing",
+              "Pricing too high risks losing the conversion entirely",
+              "Pricing too low damages value perception long-term"
+            ]
+          }
+        },
+        {
+          "id": "pricing-prompt-1",
+          "type": "prompt",
+          "title": "Present a Three-Tier Price Anchor",
+          "setup": "A client asks how much custom videos cost. Use price anchoring to make your preferred mid-tier option feel like the best value.",
+          "template": "I have a few options depending on what you're looking for:\n\n**Quick & Fun** - $40\n2-3 minute video, quick turnaround, standard content\n\n**Premium Experience** - $80 (most popular)\n5-6 minutes, personalized elements, I'll mention your name and reference what you like\n\n**Full Custom Fantasy** - $150\n10+ minutes, completely based on your specific script/fantasy, exclusive to you, never shared with anyone else\n\nMost people go with the Premium option because it hits the sweet spot between personalization and value. Which one speaks to you?",
+          "copyButton": true,
+          "explanation": "The high anchor ($150) makes $80 feel reasonable. Labeling it 'most popular' creates social proof. The client feels smart choosing the middle option rather than feeling cheap for avoiding the premium."
+        },
+        {
+          "id": "pricing-decision-2",
+          "type": "decision",
+          "title": "Content Sets vs. Individual Items",
+          "question": "A repeat buyer (3rd purchase) wants more content. You have individual videos or a themed set. What do you offer?",
+          "correctAnswer": "Themed set: 3 videos + 5 photos for $180 (higher perceived value)",
+          "wrongAnswers": [
+            "Single 8-minute video for $100 (simpler, easier to produce)",
+            "Two separate 4-minute videos at $70 each (more flexibility for client)",
+            "Let them choose between individual items and bundles"
+          ],
+          "rationale": "Sets create perceived abundance and justify higher price points. $180 for a bundle feels like more value than $100 for one video, even if production effort is similar. Repeat buyers are primed for premium offers, making sets the optimal choice.",
+          "signals": {
+            "positive": [
+              "Client is a repeat buyer (purchase 3+)",
+              "Higher trust allows for premium bundled offers",
+              "Sets create narrative flow and emotional investment across multiple pieces"
+            ],
+            "negative": [
+              "Offering individual items leaves money on the table",
+              "Giving too many choices creates decision paralysis",
+              "Single items lack the perceived abundance of sets"
+            ]
+          }
+        },
+        {
+          "id": "pricing-constraint-1",
+          "type": "constraint",
+          "title": "Never Price Below Minimum Thresholds",
+          "rules": [
+            {
+              "rule": "First purchase: Never below $30",
+              "reason": "Below $30 signals low value and trains clients to expect cheap content"
+            },
+            {
+              "rule": "Fully custom content: Never below $100",
+              "reason": "Custom work is high-effort. Pricing below $100 devalues your time and expertise"
+            },
+            {
+              "rule": "Content sets: Never below $120",
+              "reason": "Bundles should command premium pricing. Below $120 eliminates the value perception advantage"
+            }
+          ],
+          "violation_warning": "Breaking these minimums damages long-term revenue potential and client expectations."
+        },
+        {
+          "id": "pricing-checklist-1",
+          "type": "checklist",
+          "title": "Pre-Quote Pricing Checklist",
+          "description": "Before quoting a price, confirm these factors:",
+          "items": [
+            {
+              "text": "Check purchase history: Is this their 1st, 2nd, or 3rd+ purchase?",
+              "requirement": "Adjust price range based on purchase number ($30-50, $50-70, $70-100+)"
+            },
+            {
+              "text": "Assess content explicitness: Soft, medium, or fully explicit?",
+              "requirement": "Apply appropriate multiplier (1.0x, 1.5x, or 2.0x)"
+            },
+            {
+              "text": "Determine personalization level: Generic, semi-custom, or fully custom?",
+              "requirement": "Apply personalization premium (1.0x, 1.5x, or 2.5x)"
+            },
+            {
+              "text": "Review KYC data: High-specificity client or casual browser?",
+              "requirement": "High-specificity and emotional seekers justify upper-range pricing"
+            },
+            {
+              "text": "Consider scarcity/urgency: Can you add time or availability constraints?",
+              "requirement": "If yes, add 15-30% premium and communicate the limitation"
+            }
+          ]
+        },
+        {
+          "id": "pricing-branch-1",
+          "type": "branch",
+          "title": "The Price Objection: Choose Your Response",
+          "scenario": "Client responds: 'That seems expensive for a 5-minute video.' How do you handle it?",
+          "branches": [
+            {
+              "choice": "Defend the price by explaining effort and exclusivity",
+              "outcome": "neutral",
+              "result": "Works sometimes, but can feel defensive. Risk: Client interprets explanation as justification, suggesting the price might actually be too high.",
+              "nextAction": "Use this only if you're confident in value perception and client investment level."
+            },
+            {
+              "choice": "Offer a lower-tier option to maintain the sale",
+              "outcome": "negative",
+              "result": "Saves the transaction but trains the client to negotiate. Future purchases will face similar pushback.",
+              "nextAction": "Avoid unless this is a first-time buyer who needs conversion at any cost."
+            },
+            {
+              "choice": "Reframe around personalization and uniqueness",
+              "outcome": "positive",
+              "result": "\"I totally understand. The reason it's priced this way is because it's made exclusively for you, with your specific interests in mind. It's not generic content. This is YOUR experience.\" Shifts focus from price to value.",
+              "nextAction": "Follow up by asking if there are specific elements they want included to reinforce the custom nature."
+            },
+            {
+              "choice": "Use scarcity to justify the price",
+              "outcome": "positive",
+              "result": "\"I get it. I'm only doing a few of these this week, and after that I won't have time for custom requests for a while. If you want something personalized, this is the window.\" Creates urgency and justifies premium pricing.",
+              "nextAction": "If they hesitate, follow up in 12-24 hours: 'Just checking in, I have one slot left if you're still interested.'"
+            }
+          ]
+        }
+      ],
+      "challenges": [
+        {
+          "id": "pricing-challenge-1",
+          "difficulty": "hard",
+          "scenario": "A new client (1st purchase) asks for a 6-minute fully explicit custom video with their name mentioned and specific fantasy details. They have not yet indicated budget. What price do you quote?",
+          "question": "What is your quoted price and rationale?",
+          "options": [
+            {
+              "text": "$180-$200 (full custom premium with personalization multiplier)",
+              "isCorrect": false,
+              "feedback": "Too high for a first-time buyer. While the content justifies this price for repeat buyers, charging premium on the first purchase creates excessive friction and risks losing the conversion. First purchases prioritize securing trust and buying behavior, not maximum revenue."
+            },
+            {
+              "text": "$80-$100 (custom premium but adjusted down for first purchase)",
+              "isCorrect": true,
+              "feedback": "Correct. You recognize the content is high-value (explicit + custom + personalized), but you adjust downward because this is a first purchase. The goal is conversion and establishing trust. Quote $80-$100 to balance value perception with accessible entry pricing. Once they buy and experience your quality, you can charge $150-$200+ for similar content on future purchases."
+            },
+            {
+              "text": "$50-$60 (standard first-purchase range regardless of customization)",
+              "isCorrect": false,
+              "feedback": "Too low. While first purchases should be accessible, completely ignoring the custom and explicit nature undervalues your work. $50-$60 is appropriate for semi-generic content, not fully custom explicit videos. You are leaving significant money on the table and training the client to expect unrealistic pricing."
+            },
+            {
+              "text": "$120-$150 (premium custom but with slight first-purchase discount)",
+              "isCorrect": false,
+              "feedback": "Close, but still too high for a first-time buyer. This might work for a second purchase, but on the first transaction, the barrier needs to be lower. The client has no experience with your quality or reliability. Aim for $80-$100 to secure the conversion, then escalate on subsequent purchases."
+            }
+          ],
+          "explanation": "This is the tension every first-purchase scenario creates: balancing content value against conversion risk. The correct strategy is to acknowledge the premium nature of the request (explicit + custom + personalized) but adjust downward specifically because the client is unproven. You are investing in the relationship. By pricing at $80-$100, you make the purchase accessible while still signaling value. After they experience your quality, you can charge $150-$200+ for equivalent content because emotional investment is established.",
+          "deeperInsight": "Many trainees make the mistake of either: (1) charging full premium on first purchases and losing conversions, or (2) underpricing so severely that clients expect unrealistic rates forever. The art is finding the middle ground: accessible enough to secure the first purchase, high enough to maintain value perception. First-purchase pricing is not about the content. It is about the relationship trajectory."
+        },
+        {
+          "id": "pricing-challenge-2",
+          "difficulty": "hard",
+          "scenario": "A repeat buyer (4th purchase, previous purchases were $60, $75, $90) asks for a 7-minute semi-explicit video with no custom elements. Based on duration and explicitness alone, this would be $80-$100. However, their KYC data shows they are a high-specificity client who values exclusivity and has mentioned they 'hate feeling like just another subscriber.' How do you price this?",
+          "question": "What is your quoted price and strategy?",
+          "options": [
+            {
+              "text": "$80-$100 (standard duration + explicitness calculation, no adjustment)",
+              "isCorrect": false,
+              "feedback": "You are leaving money on the table. This client's purchase history shows escalating investment ($60 → $75 → $90), and their KYC data explicitly signals they value exclusivity. They are primed for premium pricing. Charging baseline rates ignores their demonstrated willingness to pay more and their psychological profile."
+            },
+            {
+              "text": "$120-$150 (premium pricing justified by purchase history and KYC profile)",
+              "isCorrect": true,
+              "feedback": "Correct. You recognize that pricing is not just about the content, but about the client's psychology and purchase trajectory. Their history shows consistent escalation, and their KYC data indicates they value exclusivity and personalization. Even though the content itself is semi-custom, you can charge premium rates by framing it as 'exclusive' or 'limited availability.' Example framing: 'I'm only making a few of these this week, and I wanted to offer you early access.' This aligns with their desire to feel special while justifying the premium price."
+            },
+            {
+              "text": "$100-$110 (slight premium over baseline but not fully maximized)",
+              "isCorrect": false,
+              "feedback": "Too conservative. You are acknowledging the client's profile but not fully capitalizing on it. Their purchase history and KYC data both indicate they are willing to pay significantly more. By pricing cautiously, you are leaving $20-$40 on the table and failing to reinforce the exclusivity they crave."
+            },
+            {
+              "text": "$90-$100 (match their previous highest purchase to maintain consistency)",
+              "isCorrect": false,
+              "feedback": "This logic is flawed. Their previous $90 purchase was likely for different content. Matching that price ignores the opportunity to continue the escalation trend. High-value clients expect prices to increase over time as the relationship deepens and content becomes more exclusive. Stagnant pricing signals you do not recognize their growing investment."
+            }
+          ],
+          "explanation": "This scenario tests your ability to integrate multiple data points: purchase history, KYC insights, and content characteristics. The content itself is mid-range, but the client's profile is premium. The correct strategy is to price based on the client, not just the content. Their escalating purchase history and explicit desire for exclusivity justify charging $120-$150, even for semi-custom content. The key is framing: position it as exclusive, limited, or early access to align with their psychological drivers.",
+          "deeperInsight": "Advanced pricing is about client segmentation. Two clients can request identical content, but you price them differently based on their profile and history. High-specificity clients who value exclusivity are your premium segment. They will pay 30-50% more than baseline if you frame the content correctly. Failing to capitalize on these signals means you are treating all clients the same, which is a fundamental strategic error."
+        },
+        {
+          "id": "pricing-challenge-3",
+          "difficulty": "hard",
+          "scenario": "A client (2nd purchase, first was $50) asks for a content set: 3 short videos (2-3 min each) and 5 photos, all with a 'morning routine' theme. Semi-explicit, no custom elements. If priced individually, this might total $120-$140. However, you want to maximize revenue while maintaining perceived value. What is your strategy?",
+          "question": "How do you price and present this offer?",
+          "options": [
+            {
+              "text": "Quote $120-$140 (sum of individual item values, no set premium)",
+              "isCorrect": false,
+              "feedback": "You are pricing this as individual items, which eliminates the strategic advantage of sets. Sets should command a premium because they create perceived abundance and narrative flow. By pricing at the sum of individual values, you are leaving money on the table and failing to leverage the bundling effect."
+            },
+            {
+              "text": "Quote $180-$200 (set premium applied, positioned as exclusive bundle)",
+              "isCorrect": true,
+              "feedback": "Correct. You recognize that sets justify higher pricing because they create perceived value beyond the sum of parts. By pricing at $180-$200, you are applying a 30-40% premium over individual item pricing. The key is framing: 'I'm putting together an exclusive morning routine set, 3 videos and 5 photos, all themed around what you like. It's $180 for the full experience.' The word 'set' and 'full experience' signal value and exclusivity, justifying the premium."
+            },
+            {
+              "text": "Quote $150-$160 (moderate set premium to balance value and conversion)",
+              "isCorrect": false,
+              "feedback": "Too conservative. While you are applying a small premium, you are not fully capitalizing on the set advantage. This client is on their second purchase, which means trust is established. You can push pricing higher. By undercutting yourself, you are leaving $20-$40 on the table without significantly improving conversion odds."
+            },
+            {
+              "text": "Quote $200-$220 (maximum set premium with scarcity framing)",
+              "isCorrect": false,
+              "feedback": "Too aggressive for a second purchase. While sets justify premiums, pricing this high on a second transaction risks alienating the client. They have not yet demonstrated ultra-premium buying behavior. Save pricing this high for 3rd+ purchases when emotional investment is deeper. Aim for $180-$200 on this transaction, then escalate further on subsequent sets."
+            }
+          ],
+          "explanation": "This scenario tests your understanding of set pricing and purchase-number calibration. Sets create perceived value beyond individual items, justifying a 30-40% premium. However, you must also account for purchase history. This is a second purchase, so the client is still in the trust-building phase. Pricing at $180-$200 strikes the right balance: high enough to capture the set premium, not so high that it creates friction. The framing is critical. Position it as an 'exclusive set' or 'complete experience' to justify the premium.",
+          "deeperInsight": "Many trainees either: (1) price sets at the sum of individual items, leaving money on the table, or (2) overprice sets on early purchases, killing conversion. The correct strategy is dynamic: apply a 30-40% set premium for 2nd purchases, and increase to 50-60% for 3rd+ purchases as emotional investment deepens. Always frame sets as exclusive or limited to justify the premium psychologically."
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "First-time buyer asking about a 5-minute semi-explicit video",
+          "response": "I can do something really special for you. It's $45 for a 5-minute video that's way more personal than what I usually share. You'll get exactly what you're looking for, and I think you're going to love it.",
+          "why": "You're pricing at the accessible first-purchase range ($40-50) while framing it as personal and special to maintain value perception. The language is confident but not pushy, making the purchase feel like a natural next step."
+        },
+        {
+          "scenario": "Repeat buyer (3rd purchase) mentions they want something 'exclusive'",
+          "response": "I'm only making 3 custom videos this week, and I saved one slot for you because I knew you'd want something special. It's $180 for a fully custom 8-minute video, completely based on your fantasy. This is the kind of thing I don't do for everyone.",
+          "why": "You've recognized their desire for exclusivity and applied scarcity to justify premium pricing. The $180 price point is appropriate for a 3rd+ purchase with full customization. The framing makes them feel special and reinforces the value."
+        },
+        {
+          "scenario": "Client says '$120 seems expensive for a video'",
+          "response": "I totally get it. The reason it's priced this way is because it's not generic content. This is made exclusively for you, with your specific interests in mind. Every detail is based on what you told me you like. It's YOUR experience, not something I'm mass-sending to everyone.",
+          "why": "You're reframing from price to value. Instead of defending the number, you're explaining what makes it worth the investment: personalization, exclusivity, and attention to their specific desires. This shifts the conversation from cost to uniqueness."
+        }
+      ],
+      "recap": [
+        "Pricing is about perceived value, not arbitrary numbers",
+        "Use the two-tier framework: Complimentary content builds investment, PPV captures revenue",
+        "Price based on purchase number: $30-50 first, $50-70 second, $70-100+ third and beyond",
+        "Duration-based formula: 1-3 min ($30-50), 4-6 min ($50-80), 7-10 min ($80-120), 10+ min ($120-200+)",
+        "Apply explicitness multipliers: 1.0x soft, 1.5x medium, 2.0x fully explicit",
+        "Personalization commands premium pricing: 1.0x generic, 1.5x semi-custom, 2.5x fully custom",
+        "Content sets justify 30-60% premiums over individual item pricing",
+        "Use KYC data to identify high-value clients who justify upper-range pricing",
+        "Scarcity and urgency tactics add 15-30% premiums when framed correctly",
+        "Price anchoring: Present three tiers with the high anchor making mid-tier feel reasonable",
+        "Never price first purchases below $30 minimum threshold",
+        "Fully custom content should never be below $100 regardless of duration",
+        "Content sets should never be below $120 to maintain bundle value perception",
+        "Post-purchase follow-up reinforces value and sets up future sales",
+        "Price objections should be reframed around personalization and exclusivity, not defended",
+        "High-specificity clients and emotional connection seekers justify 30-50% premiums",
+        "Revenue maximization formula: Base (duration) × Explicitness × Personalization + Purchase adjustment + Scarcity",
+        "Always match pricing to client psychology and purchase trajectory, not just content characteristics"
+      ]
+    },
+    "sexting": {
+      "title": "SEXTING",
+      "skillType": "Escalation",
+      "accentColor": "#EF4444",
+      "overview": {
+        "description": "<div class=\"space-y-6\">\n      <div>\n        <p class=\"text-slate-300 mb-4\">Listen up. If Flirting is the spark, <strong>Sexting</strong> is the gasoline. This is the most crucial stage for converting a potential buyer into a <strong>Mentally and Financially Invested Spender</strong>. Your goal here is to make the client so aroused and emotionally focused that the thought of <em>not</em> buying the content becomes painful.</p>\n        <p class=\"text-slate-300 mb-4\">This is not just about writing explicit messages; it's about using language to create a powerful, immersive, and personalized experience.</p>\n        <p class=\"text-slate-300 mb-4\">Here is the in-depth breakdown of the three key rules for master-level Sexting:</p>\n      </div>\n    </div>",
+        "goal": "Master sexual escalation through immersive language that makes the client feel like an active participant, not a passive observer, creating the emotional intensity that drives high-value purchases."
+      },
+      "steps": [
+        {
+          "number": 1,
+          "title": "Be Descriptive (Creating Immersive Reality)",
+          "content": "<p class=\"text-slate-300 mb-4\">The goal of description is to make the client feel like they are <strong>right there</strong> with you and are actively involved in the moment.</p>\n      \n      <div class=\"mt-6 space-y-6\">\n        <div>\n          <h4 class=\"font-bold text-white mb-3 text-lg\">The Rule: Include all the right details to help the client fully visualize what is happening</h4>\n          <p class=\"text-slate-300 text-sm mb-3\">Example phrase: \"while I'm grinding back and forth against your cock, feeling it pulsing against my clit...\"</p>\n          \n          <div class=\"grid grid-cols-2 gap-4 mt-4\">\n            <div class=\"p-4 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"font-bold text-white mb-2 text-sm\">The Strategic \"Why\"</p>\n              <p class=\"text-slate-300 text-xs mb-3\"><strong>Forces Active Participation:</strong> Vague language (\"I'm going to take off my shirt\") is passive. Highly sensory, descriptive language (like focusing on sounds, smells, and skin-to-skin feeling) forces the client's brain to fill in the blanks, which makes the experience feel real. When they create the fantasy in their head, they are mentally committed.</p>\n              <p class=\"text-slate-300 text-xs\"><strong>Personalizes the Experience:</strong> Every message must be a direct communication to the client's inner fantasy. Every action you describe should be framed around its effect on them.</p>\n            </div>\n            <div class=\"p-4 rounded-lg\" style=\"background: rgba(239, 68, 68, 0.15); border: 1px solid rgba(239, 68, 68, 0.3);\">\n              <p class=\"font-bold text-white mb-2 text-sm\">Example in Action (Focus on Sensation)</p>\n              <p class=\"text-slate-300 text-xs mb-3\"><strong>INSTEAD OF:</strong> \"I'm going to take off my shirt\"</p>\n              <p class=\"text-slate-300 text-xs\"><strong>SAY THIS:</strong> \"You feel my silk blouse slide slowly down my shoulders, the cool air hitting my nipples as I peel it off. My bra stays on for now, but my breath hitches just thinking about your hands on the lace...\" (It's all about the sensation).</p>\n            </div>\n          </div>\n        </div>\n\n        <div>\n          <h4 class=\"font-bold text-white mb-3 text-lg\">The Rule: Use Second-Person Perspective</h4>\n          <p class=\"text-slate-300 text-sm mb-3\">Use \"you\" and \"your\" often.</p>\n          \n          <div class=\"mt-4 p-4 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n            <p class=\"text-slate-300 text-xs mb-3\"><strong>Trainee Focus:</strong> \"What are you doing to me?\" \"How does this make you feel?\" \"You pull me closer...\"</p>\n          </div>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 2,
+          "title": "Be Expressive About How the Model is Feeling (Justifying the Purchase)",
+          "content": "<p class=\"text-slate-300 mb-4\">This is the most strategic step because it uses the model's emotional state to justify the final PPV price. You must adjust your expression based on your KYC data.</p>\n      \n      <div class=\"mt-6 space-y-6\">\n        <div>\n          <h4 class=\"font-bold text-white mb-3 text-lg\">Client Type: Emotionally Invested (Here for comfort, connection, fantasy)</h4>\n          \n          <div class=\"grid grid-cols-2 gap-4 mt-4\">\n            <div class=\"p-4 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"font-bold text-white mb-2 text-sm\">Expression Type</p>\n              <p class=\"text-slate-300 text-xs mb-3\"><strong>Emotional Expression:</strong> Focus on trust, vulnerability, and personal connection. \"I honestly LOVE how I can be so comfortable with you... I hope you know since you make me feel this way, you're going to see a side of myself no one else has ever seen before.\"</p>\n            </div>\n            <div class=\"p-4 rounded-lg\" style=\"background: rgba(239, 68, 68, 0.15); border: 1px solid rgba(239, 68, 68, 0.3);\">\n              <p class=\"font-bold text-white mb-2 text-sm\">Strategic Goal (The Investment)</p>\n              <p class=\"text-slate-300 text-xs\"><strong>Selling the Exclusive Relationship:</strong> This client pays for the <em>feeling</em> of being a unique partner. The high price is justified because they are paying for access to your hidden, personal side (a side no one else gets to see).</p>\n            </div>\n          </div>\n        </div>\n\n        <div>\n          <h4 class=\"font-bold text-white mb-3 text-lg\">Client Type: Purely for Pleasure (Here for arousal, excitement, speed)</h4>\n          \n          <div class=\"grid grid-cols-2 gap-4 mt-4\">\n            <div class=\"p-4 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"font-bold text-white mb-2 text-sm\">Expression Type</p>\n              <p class=\"text-slate-300 text-xs mb-3\"><strong>Sexual Expression:</strong> Focus on the physical, immediate, and intense arousal. \"You're turning me on so much... Many will realize... you know what honestly you're teasing my clit over my panties and you're leaving me SOAKED.\" (This is the <strong>Emotional Anchor</strong> for the PPV, as discussed in the last phase.)</p>\n            </div>\n            <div class=\"p-4 rounded-lg\" style=\"background: rgba(239, 68, 68, 0.15); border: 1px solid rgba(239, 68, 68, 0.3);\">\n              <p class=\"font-bold text-white mb-2 text-sm\">Strategic Goal (The Investment)</p>\n              <p class=\"text-slate-300 text-xs\"><strong>Selling the Intensity:</strong> This client pays for a guaranteed, powerful experience. The high price is justified because they are paying to witness and receive the climax of the intensity they just created in you. The PPV is the ultimate physical reward for their emotional efforts in the conversation.</p>\n            </div>\n          </div>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 3,
+          "title": "Keep the Sext Responsive and Interactive (Avoiding the 'Bot' Trap)",
+          "content": "<p class=\"text-slate-300 mb-4\">The biggest failure in Sexting is sounding like a script that doesn't acknowledge the client's last message. You must actively engage them to maintain the fantasy.</p>\n      \n      <div class=\"mt-6 space-y-6\">\n        <div>\n          <h4 class=\"font-bold text-white mb-3 text-lg\">The Rule: Include the client in the fantasy and make it easy for him to respond</h4>\n          \n          <div class=\"grid grid-cols-2 gap-4 mt-4\">\n            <div class=\"p-4 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"font-bold text-white mb-2 text-sm\">The Strategic \"Why\"</p>\n              <p class=\"text-slate-300 text-xs mb-3\"><strong>Forces Participation:</strong> A client reading a monologue is passive. A client answering a question is actively participating in the creation of the moment. Active participation deepens mental investment.</p>\n              <p class=\"text-slate-300 text-xs\"><strong>Maintains Flow and Value:</strong> The \"yes train\" is fast, but it gets repetitive. More importantly, it generates very little meaningful data. The detailed, multi-choice question forces them to reveal a deeper layer of their desires, which you can immediately use to justify the price of the PPV (e.g., \"The Premium Tier allows me to focus on that exact preference you just described\"). This makes the content feel fresh and the content feel specific.</p>\n            </div>\n            <div class=\"p-4 rounded-lg\" style=\"background: rgba(239, 68, 68, 0.15); border: 1px solid rgba(239, 68, 68, 0.3);\">\n              <p class=\"font-bold text-white mb-2 text-sm\">Example in Action (Increasing Engagement)</p>\n              <p class=\"text-slate-300 text-xs mb-3\"><strong>Trainee Focus:</strong> \"If I was bent over in front of you right now... would you rather slide your hard cock in my wet pussy, orrr my tight ass? ;)\"</p>\n              <p class=\"text-slate-300 text-xs mb-3\">(This is ideal because it forces them to make a fantasy choice, deepening their commitment to the scenario.)</p>\n              <p class=\"text-slate-300 text-xs mb-3\"><strong>INSTEAD OF:</strong> \"Are you still hard for me?\"</p>\n              <p class=\"text-slate-300 text-xs\"><strong>SAY THIS:</strong> \"What's running through your mind right now? I want to know exactly what I'm making you feel.\" (This is open-ended and requires an emotional response, which is high-value data.)</p>\n            </div>\n          </div>\n        </div>\n\n        <div>\n          <h4 class=\"font-bold text-white mb-3 text-lg\">The Rule: Avoid relying too heavily on \"yes train\" responses</h4>\n          <p class=\"text-slate-300 text-sm mb-3\">(messages that can only be answered with \"yes\" or \"no\")</p>\n          \n          <div class=\"mt-4 p-4 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n            <p class=\"text-slate-300 text-xs\">The \"yes train\" is fast, but it gets repetitive. More importantly, it generates very little meaningful data. The detailed, multi-choice question forces them to reveal a deeper layer of their desires, which you can immediately use to justify the price of the PPV.</p>\n          </div>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 4,
+          "title": "Consent and Boundaries (Crucial)",
+          "content": "Never initiate explicit escalation (sexting) without a clear signal from the client that they are engaging in the flirtatious exchange and are comfortable with the subject matter.<br><br><strong>If the client ever pulls back or changes the subject, you must revert to Flirting or Rapport immediately.</strong> This is the Rule of Respect from the Flirting stage, and it's even more critical here.",
+          "completed": false
+        },
+        {
+          "number": 5,
+          "title": "Keep it Transactional",
+          "content": "The core purpose of the sexting is to drive the purchase. Do not let the interaction become a purely social or non-monetized exchange.<br><br>The intensity must always serve the goal of increasing the value of the product and moving them to the checkout. If you're sexting for 30 minutes with no purchase progression, you're doing free labor.",
+          "completed": false
+        },
+        {
+          "number": 6,
+          "title": "Maintain Control",
+          "content": "You are the professional guiding the interaction. You control the narrative, the intensity, and the escalation.<br><br>Your language must be confident and intentional, not needy or chaotic. The entire interaction should be a demonstration that you are in control of delivering the exact \"moment\" they are investing in.",
+          "completed": false
+        },
+        {
+          "number": 7,
+          "title": "Pacing and Rhythm",
+          "content": "Build slowly, then accelerate. Create peaks and valleys of intensity to maintain engagement and prevent burnout.<br><br><strong>The Pattern:</strong> Start with moderate intensity, build to a peak, pull back slightly, then build to an even higher peak. This creates a wave pattern that keeps them engaged without overwhelming them too quickly.",
+          "completed": false
+        },
+        {
+          "number": 8,
+          "title": "Reading Arousal Signals",
+          "content": "Pay attention to their language. Short responses, increased frequency, and explicit language signal high arousal. This is your window for upselling.<br><br><strong>High Arousal Signals:</strong> Rapid replies, shorter messages, explicit language, emojis, \"I need this now\" energy.<br><br><strong>Your Action:</strong> Strike immediately with the premium offer. The 45-second window is active.",
+          "completed": false
+        },
+        {
+          "number": 9,
+          "title": "The Role of Specificity",
+          "content": "Generic sexting is forgettable. Specific sexting that references their KYC details, their stated kinks, and their personal preferences is unforgettable and justifies premium pricing.<br><br><strong>Generic:</strong> \"I'm going to make you feel amazing.\"<br><strong>Specific:</strong> \"I remember you said you love when someone takes control. I'm going to do exactly that. You won't have to think about anything except what I'm showing you.\"",
+          "completed": false
+        },
+        {
+          "number": 10,
+          "title": "Using 'We' and 'Us' Language",
+          "content": "Make them feel like they're part of the experience, not just watching. Use \"we\" and \"us\" instead of \"I\" and \"you\" when appropriate.<br><br><strong>Example:</strong> \"When we're together in this moment...\" or \"This is something we're creating just for us.\"<br><br>This creates intimacy and shared ownership of the experience, increasing emotional investment.",
+          "completed": false
+        },
+        {
+          "number": 11,
+          "title": "Fatal Pitfall: Giving Away Too Much for Free",
+          "content": "<strong>The Error:</strong> Engaging in extended explicit sexting without moving toward the purchase.<br><br><strong>The Result:</strong> The client gets their arousal satisfied through the conversation alone and no longer needs to buy. You've given away the product for free.<br><br><strong>The Fix:</strong> Keep sexting focused on what they'll experience in the paid content, not what you're doing right now. You're building anticipation for the purchase, not replacing it.",
+          "completed": false
+        },
+        {
+          "number": 12,
+          "title": "Fatal Pitfall: Losing Professional Control",
+          "content": "<strong>The Error:</strong> Letting the client dictate the pace, intensity, or direction of the sexting without guiding them toward purchase.<br><br><strong>The Result:</strong> The interaction becomes entertainment, not sales. You lose the authority needed to command premium pricing.<br><br><strong>The Fix:</strong> You are always steering. You decide when to escalate, when to pull back, and when to present the offer. Confidence equals control.",
+          "completed": false
+        },
+        {
+          "number": 13,
+          "title": "The Perfect Sexting-to-Purchase Transition",
+          "content": "When arousal is at its peak and you've built maximum emotional intensity, the transition to purchase must be smooth and natural.<br><br><strong>The Pattern:</strong> Build intensity → Peak arousal → Immediate offer → \"This is waiting for you right now.\"<br><br><strong>Example:</strong> \"I can feel how ready you are for this. The moment I'm describing? It's already made, and it's waiting for you. Once your payment goes through, you get exactly what you're imagining right now.\"",
+          "completed": false
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Client mentions they just got home from work and want to relax",
+          "response": "Perfect timing. I want you to get comfortable, close your eyes for a second, and imagine what it's going to feel like when you finally press play tonight. You'll forget about work instantly.",
+          "why": "You're using active command language ('close your eyes') to force mental participation, creating the mental scenario, and anchoring the purchase to their immediate emotional need (escaping work stress)."
+        },
+        {
+          "scenario": "Client asks what you're wearing (signal of escalation)",
+          "response": "Mmm I love how direct you are. Just a little something that shows off everything you'd want to see. What would you do if you walked in right now?",
+          "why": "You're creating a visual without being explicit, and redirecting to make them invest emotionally by describing their fantasy. This maintains control while building arousal."
+        },
+        {
+          "scenario": "Client sends explicit message about what they want to do",
+          "response": "I love how you think. That exact energy is what I captured in this. You're going to feel like we're in the room together. I need you to imagine that right now.",
+          "why": "You're validating their boldness, building immersion by suggesting they're experiencing it, and using command language to force immediate mental participation."
+        },
+        {
+          "scenario": "Client is responding rapidly with short, enthusiastic messages (high arousal signal)",
+          "response": "I can tell you need this right now. The video I made is exactly what you're thinking about. It's ready for you the second your payment goes through. This is going to be worth every second of the wait.",
+          "why": "You've recognized the 45-second arousal window and are striking immediately with the offer, framing it as the solution to their immediate need."
+        },
+        {
+          "scenario": "Client references their specific kink from KYC (wanting to feel 'worshiped')",
+          "response": "You're going to feel worshiped from the first second. Every word, every look, everything is designed to make you feel like you're the only person in the world. That's the feeling you'll have when you watch this.",
+          "why": "You're using specific sensory details directly tied to their stated kink, making the interaction incredibly personal and proving you remember and understand their unique desires."
+        },
+        {
+          "scenario": "Client asks for more details about the video content during high arousal",
+          "response": "Here's what you need to know: the second you open this, you'll see exactly what you've been imagining. I don't want to spoil the surprise, but trust me when I say this is going to break your replay button.",
+          "why": "You're maintaining control by withholding some details (keeping mystery), building anticipation, and using confident authority language that removes decision paralysis."
+        },
+        {
+          "scenario": "Client shifts to technical question mid-sexting ('How long is it?')",
+          "response": "It's 10 minutes of exactly what we've been talking about. Every second is designed for you. Should I send you the link?",
+          "why": "You've recognized the boundary signal, immediately answered the technical question professionally, then smoothly redirected back to the emotional value and moved toward closing the sale."
+        }
+      ],
+      "recap": [
+        "Sexting is about making the client feel arousal now, not just anticipation",
+        "Be descriptive: Include all the right details to help visualize what is happening",
+        "Use second-person perspective with 'you' and 'your' often",
+        "Be expressive about how the model is feeling to justify the purchase",
+        "Emotionally invested clients: Use emotional expression (trust, vulnerability, connection)",
+        "Pleasure-focused clients: Use sexual expression (physical, immediate, intense arousal)",
+        "Keep sexting responsive and interactive to avoid the 'bot' trap",
+        "Include the client in the fantasy and make it easy for them to respond",
+        "Avoid relying too heavily on 'yes train' responses",
+        "Never initiate explicit escalation without clear client signals and consent",
+        "Keep sexting transactional and focused on driving the purchase, not free entertainment",
+        "Maintain professional control over narrative, intensity, and escalation",
+        "Use pacing and rhythm to create peaks and valleys that maintain engagement",
+        "Read arousal signals (rapid replies, explicit language) to identify upsell windows",
+        "Specificity that references KYC details justifies premium pricing",
+        "Use 'we' and 'us' language to create intimacy and shared ownership",
+        "Never give away too much for free; build anticipation for paid content",
+        "You control the interaction; confidence equals authority and premium pricing",
+        "Transition at peak arousal: Build intensity → Peak → Immediate offer"
+      ]
+    },
+    "trickierQuestions": {
+      "title": "TRICKIER QUESTIONS: HANDLING OBJECTIONS & REDIRECTION",
+      "skillType": "Conversion Defense",
+      "accentColor": "#F59E0B",
+      "overview": {
+        "description": "<div class=\"space-y-6\">\n      <div>\n        <h3 class=\"font-bold text-white text-xl mb-3\">What These Questions Really Test</h3>\n        <p class=\"text-slate-300 mb-3\">These questions are not simple curiosity. They are tests of your authenticity, commitment, and value.</p>\n        <div class=\"p-4 rounded-lg\" style=\"background: rgba(245, 158, 11, 0.1); border: 1px solid rgba(245, 158, 11, 0.3);\">\n          <p class=\"text-slate-200 mb-2\"><strong>The Pattern:</strong></p>\n          <p class=\"text-slate-300 text-sm\">The client asks a question that sounds innocent but carries a deeper concern. Your response must acknowledge their concern and immediately redirect the conversation back to the emotional value you are creating. This moves them toward a paid action.</p>\n        </div>\n      </div>\n      \n      <div>\n        <h3 class=\"font-bold text-white text-xl mb-3\">The Three-Part Response Framework</h3>\n        <div class=\"grid grid-cols-3 gap-3 my-4\">\n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(245, 158, 11, 0.1); border: 1px solid rgba(245, 158, 11, 0.2);\">\n            <p class=\"font-bold text-amber-300 mb-2 text-sm\">PART 1: The Response</p>\n            <p class=\"text-slate-300 text-xs mb-2\"><strong>What You Do:</strong> Answer directly with warmth and humor</p>\n            <p class=\"text-slate-400 text-xs\">Address their surface question with a playful, human touch. This proves you are real and immediately disarms suspicion.</p>\n          </div>\n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(245, 158, 11, 0.1); border: 1px solid rgba(245, 158, 11, 0.2);\">\n            <p class=\"font-bold text-amber-300 mb-2 text-sm\">PART 2: The Impact</p>\n            <p class=\"text-slate-300 text-xs mb-2\"><strong>What It Creates:</strong> Trust and validation</p>\n            <p class=\"text-slate-400 text-xs\">By addressing the question with care, you validate their concern and reinforce your authenticity. This builds trust.</p>\n          </div>\n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(245, 158, 11, 0.1); border: 1px solid rgba(245, 158, 11, 0.2);\">\n            <p class=\"font-bold text-amber-300 mb-2 text-sm\">PART 3: The Redirect</p>\n            <p class=\"text-slate-300 text-xs mb-2\"><strong>What You Do Next:</strong> Pivot back to personalization</p>\n            <p class=\"text-slate-400 text-xs\">Immediately shift focus to their unique desires and fantasies. This refocuses attention on the value you create for them specifically.</p>\n          </div>\n        </div>\n      </div>\n      \n      <div>\n        <h3 class=\"font-bold text-white text-xl mb-3\">The Core Strategy: Acknowledge, Then Redirect</h3>\n        <p class=\"text-slate-300 mb-3\">Never ignore the question. Never get defensive. Your goal is to acknowledge their concern and immediately redirect the conversation back to the emotional value you are creating, moving them toward a paid action.</p>\n        <div class=\"p-4 rounded-lg\" style=\"background: rgba(59, 110, 235, 0.1); border: 1px solid rgba(59, 110, 235, 0.3);\">\n          <p class=\"text-slate-200 mb-2\"><strong>Decision Check:</strong></p>\n          <p class=\"text-slate-300 text-sm\">When you encounter a tricky question, ask yourself: \"What is the client really testing?\" Then respond to the deeper concern, not just the surface question.</p>\n        </div>\n      </div>\n    </div>",
+        "goal": "Master the art of handling objections and redirecting skepticism into value-driven conversations. Learn to recognize tests of authenticity, commitment, and value, then respond with strategic warmth that builds trust while immediately refocusing attention on the personalized experience you create."
+      },
+      "steps": [
+        {
+          "number": 1,
+          "title": "The Authenticity Test: 'Are you a bot?'",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 mb-3\">This question is not about technology. It is a test of your authenticity. The client wants reassurance that they are building a bond with a genuine person who is worth their high-value financial commitment.</p>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(255, 255, 255, 0.05);\">\n          <p class=\"font-bold text-slate-200 mb-2\">What the Client Is Really Asking:</p>\n          <p class=\"text-slate-300 text-sm mb-3\">\"Are you real? Is this worth my emotional investment? The client is testing your authenticity. They need reassurance that they are building a bond with a genuine person who is worth their high-value financial commitment. A bot cannot satisfy a deep, specific emotional need (a kink).\"</p>\n        </div>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(245, 158, 11, 0.15); border: 1px solid rgba(245, 158, 11, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-3\">Copy-Paste Response Template:</p>\n          <div class=\"p-3 rounded\" style=\"background: rgba(0, 0, 0, 0.2); font-family: monospace; font-size: 13px;\">\n            <p class=\"text-slate-200 mb-2\">\"Maybe I am a robot BEEP BOOP 🤖 I'm just joking hehe... I'm not a bot, but I don't blame you for asking since I know that a lot of OF pages use them.\"</p>\n          </div>\n          <div class=\"mt-3 p-2 rounded\" style=\"background: rgba(245, 158, 11, 0.1);\">\n            <p class=\"text-slate-300 text-sm\"><strong>Why It Works:</strong></p>\n            <p class=\"text-slate-400 text-xs\">You address the question with a playful, human touch (the joke), which immediately proves you are real. By validating their concern, you build trust and reinforce your authenticity.</p>\n          </div>\n        </div>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(59, 110, 235, 0.1); border: 1px solid rgba(59, 110, 235, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-3\">Strategic Redirection (The Next Step):</p>\n          <div class=\"p-3 rounded\" style=\"background: rgba(0, 0, 0, 0.2); font-family: monospace; font-size: 13px;\">\n            <p class=\"text-slate-200 mb-2\">\"Now that we've cleared that up, let's get back to what you were telling me about your favorite fantasy. I want to make sure I get that detail right.\"</p>\n          </div>\n          <div class=\"mt-3 p-2 rounded\" style=\"background: rgba(59, 110, 235, 0.1);\">\n            <p class=\"text-slate-300 text-sm\"><strong>Signal to Watch:</strong></p>\n            <p class=\"text-slate-400 text-xs\">After the joke, immediately pivot back to the personalized experience. If the client continues to ask skeptical questions instead of engaging with your redirect, they may not be ready to invest. Consider focusing energy on warmer leads.</p>\n          </div>\n        </div>\n        \n        <div class=\"p-3 rounded\" style=\"background: rgba(255, 255, 255, 0.03);\">\n          <p class=\"text-slate-300 text-sm mb-2\"><strong>Live Checklist:</strong></p>\n          <div class=\"space-y-1 ml-4\">\n            <label class=\"flex items-center gap-2 text-slate-400 text-xs cursor-pointer\">\n              <input type=\"checkbox\" class=\"rounded border-slate-600\" />\n              <span>Did you respond with warmth and humor?</span>\n            </label>\n            <label class=\"flex items-center gap-2 text-slate-400 text-xs cursor-pointer\">\n              <input type=\"checkbox\" class=\"rounded border-slate-600\" />\n              <span>Did you validate their concern without getting defensive?</span>\n            </label>\n            <label class=\"flex items-center gap-2 text-slate-400 text-xs cursor-pointer\">\n              <input type=\"checkbox\" class=\"rounded border-slate-600\" />\n              <span>Did you immediately redirect back to their fantasy/desires?</span>\n            </label>\n          </div>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 2,
+          "title": "The Exclusivity Test: 'Why are you always online?' / 'Are you talking to other people right now?'",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 mb-3\">This question is driven by jealousy and a desire for exclusivity. The client wants to confirm that they are receiving your full, focused attention and that their investment is a priority.</p>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(255, 255, 255, 0.05);\">\n          <p class=\"font-bold text-slate-200 mb-2\">What the Client Is Really Asking:</p>\n          <p class=\"text-slate-300 text-sm mb-3\">\"Am I special to you? Am I getting your full attention? This is a question driven by jealousy and a desire for exclusivity. The client wants to confirm that they are receiving your full, focused attention and that their investment is a priority.\"</p>\n        </div>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(245, 158, 11, 0.15); border: 1px solid rgba(245, 158, 11, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-3\">Copy-Paste Response Template:</p>\n          <div class=\"p-3 rounded\" style=\"background: rgba(0, 0, 0, 0.2); font-family: monospace; font-size: 13px;\">\n            <p class=\"text-slate-200 mb-2\">\"Wait, does it say I'm always online? I think it's because I always keep my PC on with my OF logged in.\"</p>\n          </div>\n          <div class=\"mt-3 p-2 rounded\" style=\"background: rgba(245, 158, 11, 0.1);\">\n            <p class=\"text-slate-300 text-sm\"><strong>Why It Works:</strong></p>\n            <p class=\"text-slate-400 text-xs\">This provides a simple, technical, and non-emotional explanation that satisfies their curiosity without making a false promise of exclusivity. It shifts the focus away from suspicion.</p>\n          </div>\n        </div>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(59, 110, 235, 0.1); border: 1px solid rgba(59, 110, 235, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-3\">Strategic Redirection (The Next Step):</p>\n          <div class=\"p-3 rounded\" style=\"background: rgba(0, 0, 0, 0.2); font-family: monospace; font-size: 13px;\">\n            <p class=\"text-slate-200 mb-2\">\"I might be online, but I'm only focused on you right now. Tell me the one thing that turns you on the most so I know what to prioritize for our conversation.\"</p>\n          </div>\n          <div class=\"mt-3 p-2 rounded\" style=\"background: rgba(59, 110, 235, 0.1);\">\n            <p class=\"text-slate-300 text-sm\"><strong>Constraint Block:</strong></p>\n            <p class=\"text-slate-400 text-xs\">Never promise absolute exclusivity (like \"I'm only talking to you\"). This sets unrealistic expectations. Instead, promise focused attention in the moment, which is both true and valuable.</p>\n          </div>\n        </div>\n        \n        <div class=\"p-3 rounded mb-4\" style=\"background: rgba(245, 158, 11, 0.1); border: 1px solid rgba(245, 158, 11, 0.2);\">\n          <p class=\"text-slate-300 text-sm mb-2\"><strong>Micro-Branch Decision:</strong></p>\n          <p class=\"text-slate-400 text-xs mb-3\">If the client responds positively to the redirect and shares more about their desires:</p>\n          <div class=\"ml-4 mb-3\">\n            <p class=\"text-green-400 text-xs\">✓ Continue building personalization. Move toward PPV proposal.</p>\n          </div>\n          <p class=\"text-slate-400 text-xs mb-3\">If the client keeps pushing for exclusivity guarantees:</p>\n          <div class=\"ml-4\">\n            <p class=\"text-amber-400 text-xs\">⚠ This is a yellow flag. Offer a personalized experience (like using their name in a video) as proof of special attention, then test their willingness to pay for that exclusivity.</p>\n          </div>\n        </div>\n        \n        <div class=\"p-3 rounded\" style=\"background: rgba(255, 255, 255, 0.03);\">\n          <p class=\"text-slate-300 text-sm mb-2\"><strong>Live Checklist:</strong></p>\n          <div class=\"space-y-1 ml-4\">\n            <label class=\"flex items-center gap-2 text-slate-400 text-xs cursor-pointer\">\n              <input type=\"checkbox\" class=\"rounded border-slate-600\" />\n              <span>Did you provide a simple, non-emotional explanation?</span>\n            </label>\n            <label class=\"flex items-center gap-2 text-slate-400 text-xs cursor-pointer\">\n              <input type=\"checkbox\" class=\"rounded border-slate-600\" />\n              <span>Did you avoid promising absolute exclusivity?</span>\n            </label>\n            <label class=\"flex items-center gap-2 text-slate-400 text-xs cursor-pointer\">\n              <input type=\"checkbox\" class=\"rounded border-slate-600\" />\n              <span>Did you redirect to their specific desires/fantasies?</span>\n            </label>\n          </div>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 3,
+          "title": "The Value Test: 'Where's my free content?' / 'Can I get this unique emotional feeling without paying?'",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 mb-3\">This is a direct test of your value. The client is seeing if they can bypass the financial commitment. Your response must be firm on value while immediately offering an exclusive, paid path.</p>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(255, 255, 255, 0.05);\">\n          <p class=\"font-bold text-slate-200 mb-2\">What the Client Is Really Asking:</p>\n          <p class=\"text-slate-300 text-sm mb-3\">\"Can I get what I want without paying? This is a direct test of your value. The client is seeing if they can bypass the financial commitment. Your response must be firm on value while immediately offering an exclusive, paid path.\"</p>\n        </div>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(245, 158, 11, 0.15); border: 1px solid rgba(245, 158, 11, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-3\">Copy-Paste Response Template:</p>\n          <div class=\"p-3 rounded\" style=\"background: rgba(0, 0, 0, 0.2); font-family: monospace; font-size: 13px;\">\n            <p class=\"text-slate-200 mb-2\">\"Aww, I'm sorry... I just don't do any free content... butttt, you did kinda come at the perfect time. Maybe I could do a REALLY good deal for you this once and give you a taste of what you've been missing out on.\"</p>\n          </div>\n          <div class=\"mt-3 p-2 rounded\" style=\"background: rgba(245, 158, 11, 0.1);\">\n            <p class=\"text-slate-300 text-sm\"><strong>Why It Works:</strong></p>\n            <p class=\"text-slate-400 text-xs\">You firmly deny the free request (maintaining your value) and immediately offer a paid solution framed as a special, exclusive \"deal\" or \"taste\" (an Upsell/PPV). This keeps the client engaged while protecting your pricing structure.</p>\n          </div>\n        </div>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(59, 110, 235, 0.1); border: 1px solid rgba(59, 110, 235, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-3\">Strategic Redirection (The Next Step):</p>\n          <div class=\"p-3 rounded\" style=\"background: rgba(0, 0, 0, 0.2); font-family: monospace; font-size: 13px;\">\n            <p class=\"text-slate-200 mb-2\">\"This special deal is a one-time offer, just to show you how worth it this is. Let's make sure I know exactly what you want to see.\"</p>\n          </div>\n          <div class=\"mt-3 p-2 rounded\" style=\"background: rgba(59, 110, 235, 0.1);\">\n            <p class=\"text-slate-300 text-sm\"><strong>Constraint Block:</strong></p>\n            <p class=\"text-slate-400 text-xs\">Never give free content. If you do, you signal that your value is negotiable. Instead, frame the paid offer as an exclusive opportunity that respects their timing and your worth.</p>\n          </div>\n        </div>\n        \n        <div class=\"p-3 rounded mb-4\" style=\"background: rgba(245, 158, 11, 0.1); border: 1px solid rgba(245, 158, 11, 0.2);\">\n          <p class=\"text-slate-300 text-sm mb-2\"><strong>Decision Check (Act Now):</strong></p>\n          <p class=\"text-slate-400 text-xs mb-3\">After offering the \"special deal,\" observe their response:</p>\n          <div class=\"space-y-2 ml-4\">\n            <div>\n              <p class=\"text-green-400 text-xs mb-1\">✓ They ask about price or details:</p>\n              <p class=\"text-slate-400 text-xs ml-4\">This is interest. Move immediately to PPV pricing. Use scarcity language like \"only available now\" to create urgency.</p>\n            </div>\n            <div>\n              <p class=\"text-red-400 text-xs mb-1\">✗ They keep asking for free content:</p>\n              <p class=\"text-slate-400 text-xs ml-4\">This is a value mismatch. Politely disengage or deprioritize this conversation. Focus energy on clients who respect your pricing.</p>\n            </div>\n          </div>\n        </div>\n        \n        <div class=\"p-3 rounded\" style=\"background: rgba(255, 255, 255, 0.03);\">\n          <p class=\"text-slate-300 text-sm mb-2\"><strong>Live Checklist:</strong></p>\n          <div class=\"space-y-1 ml-4\">\n            <label class=\"flex items-center gap-2 text-slate-400 text-xs cursor-pointer\">\n              <input type=\"checkbox\" class=\"rounded border-slate-600\" />\n              <span>Did you firmly deny the free request?</span>\n            </label>\n            <label class=\"flex items-center gap-2 text-slate-400 text-xs cursor-pointer\">\n              <input type=\"checkbox\" class=\"rounded border-slate-600\" />\n              <span>Did you immediately offer a paid alternative framed as special/exclusive?</span>\n            </label>\n            <label class=\"flex items-center gap-2 text-slate-400 text-xs cursor-pointer\">\n              <input type=\"checkbox\" class=\"rounded border-slate-600\" />\n              <span>Did you use scarcity/urgency language (one-time, perfect timing)?</span>\n            </label>\n          </div>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 4,
+          "title": "The Service Request Test: 'Can you video call?'",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 mb-3\">The client is asking for a specific, high-value service. While you may not offer it, you must acknowledge the request and immediately redirect that desire for intimacy into a product you can sell.</p>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(255, 255, 255, 0.05);\">\n          <p class=\"font-bold text-slate-200 mb-2\">What the Client Is Really Asking:</p>\n          <p class=\"text-slate-300 text-sm mb-3\">\"I want a higher level of intimacy and personal connection than a text chat. The client is asking for a specific, high-value service. While you may not offer it, you must acknowledge the request and immediately redirect that desire for intimacy into a product you can sell.\"</p>\n        </div>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(245, 158, 11, 0.15); border: 1px solid rgba(245, 158, 11, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-3\">Copy-Paste Response Template:</p>\n          <div class=\"p-3 rounded\" style=\"background: rgba(0, 0, 0, 0.2); font-family: monospace; font-size: 13px;\">\n            <p class=\"text-slate-200 mb-2\">\"Aww, I'm sorry... I just don't do video calls. But you know... if that's what you were looking for, I have an idea I think you're really going to like.\"</p>\n          </div>\n          <div class=\"mt-3 p-2 rounded\" style=\"background: rgba(245, 158, 11, 0.1);\">\n            <p class=\"text-slate-300 text-sm\"><strong>Why It Works:</strong></p>\n            <p class=\"text-slate-400 text-xs\">You validate their desire for intimacy (\"I know that's what you were looking for\") but immediately pivot to an even better offer that satisfies the same emotional need for closeness and personalization.</p>\n          </div>\n        </div>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(59, 110, 235, 0.1); border: 1px solid rgba(59, 110, 235, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-3\">Strategic Redirection (The Next Step):</p>\n          <div class=\"p-3 rounded\" style=\"background: rgba(0, 0, 0, 0.2); font-family: monospace; font-size: 13px;\">\n            <p class=\"text-slate-200 mb-2\">\"I can't call, but I can make you a 60-second, personalized video that is just for your eyes, where I say your name and talk only to you. It's the most personal thing I offer. Does that sound better than a call?\"</p>\n          </div>\n          <div class=\"mt-3 p-2 rounded\" style=\"background: rgba(59, 110, 235, 0.1);\">\n            <p class=\"text-slate-300 text-sm\"><strong>Signal to Watch:</strong></p>\n            <p class=\"text-slate-400 text-xs\">This immediately creates an Upsell opportunity. If they respond with interest, move directly to pricing and customization details. If they insist on a video call only, this is a service mismatch. Politely decline and refocus on interested leads.</p>\n          </div>\n        </div>\n        \n        <div class=\"p-3 rounded mb-4\" style=\"background: rgba(245, 158, 11, 0.1); border: 1px solid rgba(245, 158, 11, 0.2);\">\n          <p class=\"text-slate-300 text-sm mb-2\"><strong>Micro-Branch Decision:</strong></p>\n          <p class=\"text-slate-400 text-xs mb-3\">After offering the personalized video alternative:</p>\n          <div class=\"space-y-2 ml-4\">\n            <div>\n              <p class=\"text-green-400 text-xs mb-1\">✓ They say \"Yes, that sounds great\" or ask about price:</p>\n              <p class=\"text-slate-400 text-xs ml-4\">Perfect. Move to PPV pricing immediately. Emphasize exclusivity (\"just for you,\" \"never shared\"). Use premium pricing for personalized content.</p>\n            </div>\n            <div>\n              <p class=\"text-amber-400 text-xs mb-1\">⚠ They say \"Maybe\" or seem hesitant:</p>\n              <p class=\"text-slate-400 text-xs ml-4\">Add scarcity: \"I only do a few of these per week.\" This creates urgency and frames the offer as rare access.</p>\n            </div>\n            <div>\n              <p class=\"text-red-400 text-xs mb-1\">✗ They insist on video call only:</p>\n              <p class=\"text-slate-400 text-xs ml-4\">This is a hard boundary mismatch. Politely decline and move on to other conversations.</p>\n            </div>\n          </div>\n        </div>\n        \n        <div class=\"p-3 rounded\" style=\"background: rgba(255, 255, 255, 0.03);\">\n          <p class=\"text-slate-300 text-sm mb-2\"><strong>Live Checklist:</strong></p>\n          <div class=\"space-y-1 ml-4\">\n            <label class=\"flex items-center gap-2 text-slate-400 text-xs cursor-pointer\">\n              <input type=\"checkbox\" class=\"rounded border-slate-600\" />\n              <span>Did you acknowledge their desire for intimacy?</span>\n            </label>\n            <label class=\"flex items-center gap-2 text-slate-400 text-xs cursor-pointer\">\n              <input type=\"checkbox\" class=\"rounded border-slate-600\" />\n              <span>Did you offer a better alternative that you can deliver?</span>\n            </label>\n            <label class=\"flex items-center gap-2 text-slate-400 text-xs cursor-pointer\">\n              <input type=\"checkbox\" class=\"rounded border-slate-600\" />\n              <span>Did you frame the alternative as more personal/exclusive?</span>\n            </label>\n          </div>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 5,
+          "title": "Pattern Recognition: Identifying Test Questions",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 mb-3\">Not all questions are simple curiosity. Learn to recognize when a question is actually a test of your value, authenticity, or commitment.</p>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(245, 158, 11, 0.15); border: 1px solid rgba(245, 158, 11, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-3\">Common Test Patterns:</p>\n          <div class=\"space-y-3\">\n            <div class=\"p-3 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"font-bold text-amber-400 mb-2 text-sm\">Authenticity Tests</p>\n              <p class=\"text-slate-300 text-xs mb-2\">Examples: \"Are you a bot?\" \"Are these photos really you?\" \"Do you actually read these messages?\"</p>\n              <p class=\"text-slate-400 text-xs\"><strong>What They Test:</strong> Are you real? Can I trust you?</p>\n            </div>\n            <div class=\"p-3 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"font-bold text-amber-400 mb-2 text-sm\">Exclusivity Tests</p>\n              <p class=\"text-slate-300 text-xs mb-2\">Examples: \"How many people do you talk to?\" \"Am I special to you?\" \"Why are you always online?\"</p>\n              <p class=\"text-slate-400 text-xs\"><strong>What They Test:</strong> Am I getting your full attention? Do I matter?</p>\n            </div>\n            <div class=\"p-3 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"font-bold text-amber-400 mb-2 text-sm\">Value Tests</p>\n              <p class=\"text-slate-300 text-xs mb-2\">Examples: \"Can I get free content?\" \"Why is this so expensive?\" \"What makes you different?\"</p>\n              <p class=\"text-slate-400 text-xs\"><strong>What They Test:</strong> Are you worth the price? Can I negotiate?</p>\n            </div>\n            <div class=\"p-3 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"font-bold text-amber-400 mb-2 text-sm\">Service Boundary Tests</p>\n              <p class=\"text-slate-300 text-xs mb-2\">Examples: \"Can you video call?\" \"Will you meet in person?\" \"Can you send me your phone number?\"</p>\n              <p class=\"text-slate-400 text-xs\"><strong>What They Test:</strong> What services do you offer? Can I push your boundaries?</p>\n            </div>\n          </div>\n        </div>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(59, 110, 235, 0.1); border: 1px solid rgba(59, 110, 235, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-2\">Decision Framework: How to Respond</p>\n          <div class=\"space-y-3 mt-3\">\n            <div class=\"flex items-start gap-3\">\n              <div class=\"flex-shrink-0 w-6 h-6 rounded-full flex items-center justify-center text-xs font-bold\" style=\"background: rgba(245, 158, 11, 0.2); color: #F59E0B;\">1</div>\n              <div class=\"flex-1\">\n                <p class=\"text-slate-300 text-sm mb-1\"><strong>Identify the Test Type</strong></p>\n                <p class=\"text-slate-400 text-xs\">Is this about authenticity, exclusivity, value, or boundaries?</p>\n              </div>\n            </div>\n            <div class=\"flex items-start gap-3\">\n              <div class=\"flex-shrink-0 w-6 h-6 rounded-full flex items-center justify-center text-xs font-bold\" style=\"background: rgba(245, 158, 11, 0.2); color: #F59E0B;\">2</div>\n              <div class=\"flex-1\">\n                <p class=\"text-slate-300 text-sm mb-1\"><strong>Acknowledge the Concern</strong></p>\n                <p class=\"text-slate-400 text-xs\">Address the surface question with warmth and validation. Never ignore or dismiss.</p>\n              </div>\n            </div>\n            <div class=\"flex items-start gap-3\">\n              <div class=\"flex-shrink-0 w-6 h-6 rounded-full flex items-center justify-center text-xs font-bold\" style=\"background: rgba(245, 158, 11, 0.2); color: #F59E0B;\">3</div>\n              <div class=\"flex-1\">\n                <p class=\"text-slate-300 text-sm mb-1\"><strong>Redirect to Value</strong></p>\n                <p class=\"text-slate-400 text-xs\">Immediately pivot the conversation back to their desires, fantasies, or the personalized experience you create.</p>\n              </div>\n            </div>\n          </div>\n        </div>\n        \n        <div class=\"p-3 rounded\" style=\"background: rgba(255, 255, 255, 0.03);\">\n          <p class=\"text-slate-300 text-sm mb-2\"><strong>Practice Exercise:</strong></p>\n          <p class=\"text-slate-400 text-xs mb-3\">When you encounter a question in your next conversation, pause before responding. Ask yourself:</p>\n          <div class=\"space-y-1 ml-4\">\n            <p class=\"text-slate-400 text-xs\">• What type of test is this?</p>\n            <p class=\"text-slate-400 text-xs\">• What is the client really asking?</p>\n            <p class=\"text-slate-400 text-xs\">• How can I acknowledge their concern and redirect to value?</p>\n          </div>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 6,
+          "title": "Advanced Scenario: Handling Multiple Tests in One Conversation",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 mb-3\">Sometimes a client will test you multiple times in rapid succession. This is not hostility. It is deep skepticism that needs to be disarmed systematically.</p>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(245, 158, 11, 0.15); border: 1px solid rgba(245, 158, 11, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-3\">Example Conversation Flow:</p>\n          <div class=\"space-y-3\">\n            <div class=\"p-2 rounded\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"text-slate-400 text-xs mb-1\">Client:</p>\n              <p class=\"text-slate-300 text-sm\">\"Are you a bot?\"</p>\n            </div>\n            <div class=\"p-2 rounded\" style=\"background: rgba(245, 158, 11, 0.1);\">\n              <p class=\"text-amber-400 text-xs mb-1\">You:</p>\n              <p class=\"text-slate-300 text-sm\">\"Maybe I am a robot BEEP BOOP 🤖 I'm just joking hehe... I'm not a bot. Now that we've cleared that up, what brings you here today?\"</p>\n            </div>\n            <div class=\"p-2 rounded\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"text-slate-400 text-xs mb-1\">Client:</p>\n              <p class=\"text-slate-300 text-sm\">\"Why are you always online? Are you talking to like 50 people right now?\"</p>\n            </div>\n            <div class=\"p-2 rounded\" style=\"background: rgba(245, 158, 11, 0.1);\">\n              <p class=\"text-amber-400 text-xs mb-1\">You:</p>\n              <p class=\"text-slate-300 text-sm\">\"I keep my OF logged in on my PC, so it shows me as online even when I'm not actively here. But right now, I'm focused on you. Tell me what you're into so I can make sure our conversation is worth your time.\"</p>\n            </div>\n            <div class=\"p-2 rounded\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"text-slate-400 text-xs mb-1\">Client:</p>\n              <p class=\"text-slate-300 text-sm\">\"Do you have any free content?\"</p>\n            </div>\n            <div class=\"p-2 rounded\" style=\"background: rgba(245, 158, 11, 0.1);\">\n              <p class=\"text-amber-400 text-xs mb-1\">You:</p>\n              <p class=\"text-slate-300 text-sm\">\"I don't do free content, but you did come at the perfect time. I could do a really good deal for you this once and give you a taste of what you've been missing. Let me know what you're looking for and I'll make it happen.\"</p>\n            </div>\n          </div>\n        </div>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(59, 110, 235, 0.1); border: 1px solid rgba(59, 110, 235, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-2\">Why This Works:</p>\n          <ul class=\"space-y-2 ml-4\">\n            <li class=\"text-slate-300 text-sm\"><strong>Consistency:</strong> You answer every test with warmth and validation, never getting defensive.</li>\n            <li class=\"text-slate-300 text-sm\"><strong>Redirection:</strong> After each response, you immediately pivot back to their desires and the value you create.</li>\n            <li class=\"text-slate-300 text-sm\"><strong>Boundary Maintenance:</strong> You stay firm on your boundaries (no free content, not making false promises) while keeping the conversation warm and inviting.</li>\n          </ul>\n        </div>\n        \n        <div class=\"p-3 rounded mb-4\" style=\"background: rgba(245, 158, 11, 0.1); border: 1px solid rgba(245, 158, 11, 0.2);\">\n          <p class=\"text-slate-300 text-sm mb-2\"><strong>Signal to Watch:</strong></p>\n          <p class=\"text-slate-400 text-xs mb-3\">If a client continues testing after 3-4 responses without engaging with your redirects, this is a signal they may not be ready to invest. Consider:</p>\n          <div class=\"space-y-1 ml-4\">\n            <p class=\"text-slate-400 text-xs\">• Deprioritizing this conversation</p>\n            <p class=\"text-slate-400 text-xs\">• Focusing energy on warmer, more engaged leads</p>\n            <p class=\"text-slate-400 text-xs\">• Setting a firm boundary: \"I'd love to chat more when you're ready to explore what I offer.\"</p>\n          </div>\n        </div>\n        \n        <div class=\"p-3 rounded\" style=\"background: rgba(255, 255, 255, 0.03);\">\n          <p class=\"text-slate-300 text-sm mb-2\"><strong>Live Checklist:</strong></p>\n          <div class=\"space-y-1 ml-4\">\n            <label class=\"flex items-center gap-2 text-slate-400 text-xs cursor-pointer\">\n              <input type=\"checkbox\" class=\"rounded border-slate-600\" />\n              <span>Did you maintain warmth throughout multiple tests?</span>\n            </label>\n            <label class=\"flex items-center gap-2 text-slate-400 text-xs cursor-pointer\">\n              <input type=\"checkbox\" class=\"rounded border-slate-600\" />\n              <span>Did you redirect after each response back to value?</span>\n            </label>\n            <label class=\"flex items-center gap-2 text-slate-400 text-xs cursor-pointer\">\n              <input type=\"checkbox\" class=\"rounded border-slate-600\" />\n              <span>Did you recognize when to disengage from unproductive testing?</span>\n            </label>\n          </div>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 7,
+          "title": "Scenario-Based Challenge: The Skeptical Client",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 mb-3\">Test your understanding with this realistic scenario. A client has just sent you a series of skeptical questions. Choose the best response strategy.</p>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(255, 255, 255, 0.05);\">\n          <p class=\"font-bold text-slate-200 mb-3\">Scenario:</p>\n          <div class=\"space-y-2\">\n            <div class=\"p-2 rounded\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"text-slate-400 text-xs mb-1\">Client Message 1:</p>\n              <p class=\"text-slate-300 text-sm\">\"Are you even real? I feel like I'm talking to a script.\"</p>\n            </div>\n            <div class=\"p-2 rounded\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"text-slate-400 text-xs mb-1\">Client Message 2:</p>\n              <p class=\"text-slate-300 text-sm\">\"I bet you say the same thing to everyone.\"</p>\n            </div>\n          </div>\n        </div>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(245, 158, 11, 0.15); border: 1px solid rgba(245, 158, 11, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-3\">Choose Your Response Strategy:</p>\n          <div class=\"space-y-3\">\n            <div class=\"p-3 rounded-lg cursor-pointer transition-all hover:bg-white/10\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"font-bold text-red-400 mb-2 text-sm\">Option A: Get Defensive</p>\n              <p class=\"text-slate-300 text-xs mb-2\">\"Of course I'm real! I don't appreciate being accused of being fake. If you don't believe me, you can leave.\"</p>\n              <p class=\"text-slate-400 text-xs\"><strong>Why This Fails:</strong> Creates conflict, validates their skepticism, and kills the conversation. Never get defensive.</p>\n            </div>\n            \n            <div class=\"p-3 rounded-lg cursor-pointer transition-all hover:bg-white/10\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"font-bold text-amber-400 mb-2 text-sm\">Option B: Over-Promise Exclusivity</p>\n              <p class=\"text-slate-300 text-xs mb-2\">\"You're the only person I'm talking to right now! I never say the same thing to anyone else. You're so special to me.\"</p>\n              <p class=\"text-slate-400 text-xs\"><strong>Why This Fails:</strong> Sets unrealistic expectations. If they discover you talk to others (which you do), trust is destroyed. Avoid false promises.</p>\n            </div>\n            \n            <div class=\"p-3 rounded-lg cursor-pointer transition-all\" style=\"background: rgba(16, 185, 129, 0.15); border: 2px solid rgba(16, 185, 129, 0.4);\">\n              <p class=\"font-bold text-green-400 mb-2 text-sm\">Option C: Acknowledge + Redirect (CORRECT)</p>\n              <p class=\"text-slate-300 text-xs mb-2\">\"I totally get why you'd feel that way. A lot of pages do use bots and scripts. But I promise, I'm real, and I'm here talking to you right now. I want to make sure you get something that feels personal and made just for you. What's the one thing you've been hoping to find here?\"</p>\n              <p class=\"text-slate-400 text-xs\"><strong>Why This Works:</strong> Validates their concern, reassures authenticity, and immediately redirects to personalization and value. This is the correct approach.</p>\n            </div>\n            \n            <div class=\"p-3 rounded-lg cursor-pointer transition-all hover:bg-white/10\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"font-bold text-red-400 mb-2 text-sm\">Option D: Ignore and Change Subject</p>\n              <p class=\"text-slate-300 text-xs mb-2\">\"So what kind of content do you like?\"</p>\n              <p class=\"text-slate-400 text-xs\"><strong>Why This Fails:</strong> Ignoring their concern makes you seem like a bot. Always acknowledge the question before redirecting.</p>\n            </div>\n          </div>\n        </div>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(59, 110, 235, 0.1); border: 1px solid rgba(59, 110, 235, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-2\">The Correct Follow-Up:</p>\n          <p class=\"text-slate-300 text-sm mb-3\">After using Option C (Acknowledge + Redirect), if the client responds with their desires or preferences:</p>\n          <div class=\"p-3 rounded\" style=\"background: rgba(0, 0, 0, 0.2); font-family: monospace; font-size: 13px;\">\n            <p class=\"text-slate-200\">\"Perfect. Let me create something that shows you exactly what makes this different. I can make you a personalized experience that's just for you. Does that sound like what you're looking for?\"</p>\n          </div>\n          <p class=\"text-slate-400 text-xs mt-3\"><strong>Next Step:</strong> Move directly to PPV proposal with personalization premium pricing.</p>\n        </div>\n        \n        <div class=\"p-3 rounded\" style=\"background: rgba(255, 255, 255, 0.03);\">\n          <p class=\"text-slate-300 text-sm mb-2\"><strong>Key Takeaway:</strong></p>\n          <p class=\"text-slate-400 text-xs\">The Acknowledge + Redirect pattern works for nearly every tricky question. Validate their concern, reassure authenticity or value, then immediately pivot to personalization.</p>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 8,
+          "title": "Scenario-Based Challenge: The Price Negotiator",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 mb-3\">This scenario tests your ability to maintain value boundaries while keeping the client engaged.</p>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(255, 255, 255, 0.05);\">\n          <p class=\"font-bold text-slate-200 mb-3\">Scenario:</p>\n          <div class=\"space-y-2\">\n            <div class=\"p-2 rounded\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"text-slate-400 text-xs mb-1\">You:</p>\n              <p class=\"text-slate-300 text-sm\">\"I can make you a custom 5-minute video for $80.\"</p>\n            </div>\n            <div class=\"p-2 rounded\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"text-slate-400 text-xs mb-1\">Client:</p>\n              <p class=\"text-slate-300 text-sm\">\"That's way too expensive. Can you do $40? I saw another creator charging $30.\"</p>\n            </div>\n          </div>\n        </div>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(245, 158, 11, 0.15); border: 1px solid rgba(245, 158, 11, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-3\">Choose Your Response Strategy:</p>\n          <div class=\"space-y-3\">\n            <div class=\"p-3 rounded-lg cursor-pointer transition-all hover:bg-white/10\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"font-bold text-red-400 mb-2 text-sm\">Option A: Accept the Lower Price</p>\n              <p class=\"text-slate-300 text-xs mb-2\">\"Okay, I can do $40 for you.\"</p>\n              <p class=\"text-slate-400 text-xs\"><strong>Why This Fails:</strong> Signals that your value is negotiable. Once you discount, clients will always expect discounts. You've just taught them that your pricing is arbitrary.</p>\n            </div>\n            \n            <div class=\"p-3 rounded-lg cursor-pointer transition-all hover:bg-white/10\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"font-bold text-red-400 mb-2 text-sm\">Option B: Get Offended</p>\n              <p class=\"text-slate-300 text-xs mb-2\">\"If you think I'm too expensive, go talk to that other creator then. I know my worth.\"</p>\n              <p class=\"text-slate-400 text-xs\"><strong>Why This Fails:</strong> Creates hostility and ends the conversation. Even if they're testing boundaries, stay warm and professional.</p>\n            </div>\n            \n            <div class=\"p-3 rounded-lg cursor-pointer transition-all\" style=\"background: rgba(16, 185, 129, 0.15); border: 2px solid rgba(16, 185, 129, 0.4);\">\n              <p class=\"font-bold text-green-400 mb-2 text-sm\">Option C: Firm Boundary + Value Reframe (CORRECT)</p>\n              <p class=\"text-slate-300 text-xs mb-2\">\"I totally understand wanting a good deal. The difference is that my videos are fully custom and personalized just for you. I'll say your name, follow your specific fantasy, and make sure it's exactly what you want. That level of personalization is why my pricing is where it is. If you're looking for something generic, you might find cheaper options. But if you want something that feels like it was made only for you, I promise this is worth it.\"</p>\n              <p class=\"text-slate-400 text-xs\"><strong>Why This Works:</strong> Maintains your value boundary, explains the pricing rationale, and reframes the conversation around personalization vs. generic content. This is the correct approach.</p>\n            </div>\n            \n            <div class=\"p-3 rounded-lg cursor-pointer transition-all hover:bg-white/10\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"font-bold text-amber-400 mb-2 text-sm\">Option D: Offer a Smaller Alternative</p>\n              <p class=\"text-slate-300 text-xs mb-2\">\"I can't do $40 for 5 minutes, but I could do a 2-minute video for $40 if you want something shorter.\"</p>\n              <p class=\"text-slate-400 text-xs\"><strong>Why This Is Okay But Not Ideal:</strong> This maintains your per-minute value, which is good. However, it doesn't educate the client on why your pricing is justified. Use this only if Option C doesn't work.</p>\n            </div>\n          </div>\n        </div>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(59, 110, 235, 0.1); border: 1px solid rgba(59, 110, 235, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-2\">Decision Tree After Response:</p>\n          <div class=\"space-y-3 mt-3\">\n            <div>\n              <p class=\"text-green-400 text-sm mb-1\">✓ If they say \"Okay, that makes sense\" or agree to the price:</p>\n              <p class=\"text-slate-400 text-xs ml-4\">Perfect. Move to payment and customization details immediately.</p>\n            </div>\n            <div>\n              <p class=\"text-amber-400 text-sm mb-1\">⚠ If they say \"Let me think about it\":</p>\n              <p class=\"text-slate-400 text-xs ml-4\">Add scarcity: \"No problem. Just so you know, I only take a few custom requests per week, so if you decide you want this, let me know soon.\" This creates gentle urgency without pressure.</p>\n            </div>\n            <div>\n              <p class=\"text-red-400 text-sm mb-1\">✗ If they keep pushing for a lower price:</p>\n              <p class=\"text-slate-400 text-xs ml-4\">This is a value mismatch. Politely disengage: \"I understand this might not be the right fit for you right now. Feel free to reach out if you change your mind.\" Focus energy on clients who respect your pricing.</p>\n            </div>\n          </div>\n        </div>\n        \n        <div class=\"p-3 rounded\" style=\"background: rgba(255, 255, 255, 0.03);\">\n          <p class=\"text-slate-300 text-sm mb-2\"><strong>Key Takeaway:</strong></p>\n          <p class=\"text-slate-400 text-xs\">Never negotiate on price. Instead, educate on value. If they don't see the value, they are not your ideal client.</p>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 9,
+          "title": "Micro-Branch: When to Disengage",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 mb-3\">Not every conversation will convert. Recognizing when to disengage saves time and energy for higher-value leads.</p>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(245, 158, 11, 0.15); border: 1px solid rgba(245, 158, 11, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-3\">Red Flags: When to Consider Disengaging</p>\n          <div class=\"space-y-3\">\n            <div class=\"p-3 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"font-bold text-red-400 mb-2 text-sm\">🚩 Repeated Testing Without Engagement</p>\n              <p class=\"text-slate-300 text-xs mb-2\">The client asks 3+ skeptical questions in a row without responding to your redirects about their desires or preferences.</p>\n              <p class=\"text-slate-400 text-xs\"><strong>What This Means:</strong> They are not emotionally invested. They are testing boundaries without intent to purchase.</p>\n            </div>\n            \n            <div class=\"p-3 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"font-bold text-red-400 mb-2 text-sm\">🚩 Persistent Free Content Requests</p>\n              <p class=\"text-slate-300 text-xs mb-2\">After you've firmly declined and offered a paid alternative, they continue asking for free content or \"samples.\"</p>\n              <p class=\"text-slate-400 text-xs\"><strong>What This Means:</strong> Value mismatch. They do not respect your pricing structure.</p>\n            </div>\n            \n            <div class=\"p-3 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"font-bold text-red-400 mb-2 text-sm\">🚩 Aggressive Price Negotiation</p>\n              <p class=\"text-slate-300 text-xs mb-2\">They repeatedly push for lower prices even after you've explained your value and offered alternatives.</p>\n              <p class=\"text-slate-400 text-xs\"><strong>What This Means:</strong> They are price-focused, not value-focused. Unlikely to become a repeat customer.</p>\n            </div>\n            \n            <div class=\"p-3 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"font-bold text-red-400 mb-2 text-sm\">🚩 Boundary Pushing</p>\n              <p class=\"text-slate-300 text-xs mb-2\">They ask for services you don't offer (video calls, personal phone numbers, meetups) and refuse to accept your alternatives.</p>\n              <p class=\"text-slate-400 text-xs\"><strong>What This Means:</strong> Service mismatch. They want something you cannot provide.</p>\n            </div>\n          </div>\n        </div>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(59, 110, 235, 0.1); border: 1px solid rgba(59, 110, 235, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-3\">How to Disengage Professionally:</p>\n          <div class=\"space-y-3\">\n            <div class=\"p-3 rounded\" style=\"background: rgba(0, 0, 0, 0.2); font-family: monospace; font-size: 13px;\">\n              <p class=\"text-slate-200 mb-3\"><strong>Option 1: Soft Close</strong></p>\n              <p class=\"text-slate-300 text-sm\">\"I totally understand this might not be the right fit for you right now. Feel free to reach out if you change your mind. I'd love to work with you when the timing is better.\"</p>\n            </div>\n            \n            <div class=\"p-3 rounded\" style=\"background: rgba(0, 0, 0, 0.2); font-family: monospace; font-size: 13px;\">\n              <p class=\"text-slate-200 mb-3\"><strong>Option 2: Firm Boundary</strong></p>\n              <p class=\"text-slate-300 text-sm\">\"I appreciate your interest, but it sounds like we're looking for different things. I hope you find what you're looking for.\"</p>\n            </div>\n            \n            <div class=\"p-3 rounded\" style=\"background: rgba(0, 0, 0, 0.2); font-family: monospace; font-size: 13px;\">\n              <p class=\"text-slate-200 mb-3\"><strong>Option 3: Silent Deprioritization</strong></p>\n              <p class=\"text-slate-300 text-sm\">Simply stop responding or deprioritize their messages. Focus energy on warmer leads who show engagement and willingness to invest.</p>\n            </div>\n          </div>\n        </div>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(245, 158, 11, 0.1); border: 1px solid rgba(245, 158, 11, 0.2);\">\n          <p class=\"font-bold text-slate-200 mb-2\">Decision Check:</p>\n          <p class=\"text-slate-300 text-sm mb-3\">Before disengaging, ask yourself:</p>\n          <div class=\"space-y-1 ml-4\">\n            <p class=\"text-slate-400 text-xs\">• Have I given them 2-3 chances to engage with my redirects?</p>\n            <p class=\"text-slate-400 text-xs\">• Have I clearly communicated my value and boundaries?</p>\n            <p class=\"text-slate-400 text-xs\">• Is continuing this conversation the best use of my time and energy?</p>\n          </div>\n          <p class=\"text-slate-300 text-sm mt-3\">If the answer to all three is yes, it's time to disengage and focus on better leads.</p>\n        </div>\n        \n        <div class=\"p-3 rounded\" style=\"background: rgba(255, 255, 255, 0.03);\">\n          <p class=\"text-slate-300 text-sm mb-2\"><strong>Remember:</strong></p>\n          <p class=\"text-slate-400 text-xs\">Your time and energy are valuable. Disengaging from low-value leads is not rude. It is strategic resource management.</p>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 10,
+          "title": "Real Conversation Example: Putting It All Together",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 mb-3\">Here is a complete conversation example showing how to handle multiple tricky questions while maintaining warmth, boundaries, and forward momentum toward a sale.</p>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(245, 158, 11, 0.15); border: 1px solid rgba(245, 158, 11, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-3\">Complete Conversation Flow:</p>\n          <div class=\"space-y-2\">\n            <div class=\"p-2 rounded\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"text-slate-400 text-xs mb-1\">Client:</p>\n              <p class=\"text-slate-300 text-sm\">\"Hey, are you real or is this a bot?\"</p>\n            </div>\n            <div class=\"p-2 rounded\" style=\"background: rgba(245, 158, 11, 0.1);\">\n              <p class=\"text-amber-400 text-xs mb-1\">You (Authenticity Test Response):</p>\n              <p class=\"text-slate-300 text-sm\">\"Maybe I am a robot BEEP BOOP 🤖 I'm just joking hehe... I'm not a bot, but I don't blame you for asking. A lot of pages use them. What brings you here today?\"</p>\n            </div>\n            <div class=\"p-2 rounded\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"text-slate-400 text-xs mb-1\">Client:</p>\n              <p class=\"text-slate-300 text-sm\">\"Just browsing. Do you have any free content?\"</p>\n            </div>\n            <div class=\"p-2 rounded\" style=\"background: rgba(245, 158, 11, 0.1);\">\n              <p class=\"text-amber-400 text-xs mb-1\">You (Value Test Response):</p>\n              <p class=\"text-slate-300 text-sm\">\"Aww, I'm sorry... I just don't do any free content... butttt, you did kinda come at the perfect time. Maybe I could do a REALLY good deal for you this once and give you a taste of what you've been missing out on. What kind of content are you into?\"</p>\n            </div>\n            <div class=\"p-2 rounded\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"text-slate-400 text-xs mb-1\">Client:</p>\n              <p class=\"text-slate-300 text-sm\">\"I like custom videos. But why are you always online? Seems suspicious.\"</p>\n            </div>\n            <div class=\"p-2 rounded\" style=\"background: rgba(245, 158, 11, 0.1);\">\n              <p class=\"text-amber-400 text-xs mb-1\">You (Exclusivity Test Response):</p>\n              <p class=\"text-slate-300 text-sm\">\"I keep my OF logged in on my PC, so it shows me as online even when I'm not here. But right now, I'm focused on you. Tell me more about what you like in custom videos so I can make sure I give you exactly what you want.\"</p>\n            </div>\n            <div class=\"p-2 rounded\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"text-slate-400 text-xs mb-1\">Client:</p>\n              <p class=\"text-slate-300 text-sm\">\"I like roleplay stuff. Office setting, boss/secretary. How much would that be?\"</p>\n            </div>\n            <div class=\"p-2 rounded\" style=\"background: rgba(245, 158, 11, 0.1);\">\n              <p class=\"text-amber-400 text-xs mb-1\">You (Pivot to PPV):</p>\n              <p class=\"text-slate-300 text-sm\">\"Ooh I love that. I could do a 5-minute custom video with that exact scenario. I'll say your name, follow your script, and make it feel like it was made only for you. For that level of personalization, I'd do $80. Does that sound good?\"</p>\n            </div>\n            <div class=\"p-2 rounded\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"text-slate-400 text-xs mb-1\">Client:</p>\n              <p class=\"text-slate-300 text-sm\">\"That's kind of expensive. Can you do $50?\"</p>\n            </div>\n            <div class=\"p-2 rounded\" style=\"background: rgba(245, 158, 11, 0.1);\">\n              <p class=\"text-amber-400 text-xs mb-1\">You (Price Negotiation Response):</p>\n              <p class=\"text-slate-300 text-sm\">\"I totally understand wanting a good deal. The difference is that this is fully custom. I'll say your name, follow your fantasy exactly, and make sure it's perfect for you. That level of personalization is why my pricing is where it is. If you want something that feels like it was made only for you, I promise this is worth it.\"</p>\n            </div>\n            <div class=\"p-2 rounded\" style=\"background: rgba(255, 255, 255, 0.05);\">\n              <p class=\"text-slate-400 text-xs mb-1\">Client:</p>\n              <p class=\"text-slate-300 text-sm\">\"Okay, that makes sense. Let's do it.\"</p>\n            </div>\n            <div class=\"p-2 rounded\" style=\"background: rgba(16, 185, 129, 0.15);\">\n              <p class=\"text-green-400 text-xs mb-1\">RESULT: CONVERSION ✓</p>\n              <p class=\"text-slate-300 text-sm\">Move to payment and customization details immediately.</p>\n            </div>\n          </div>\n        </div>\n        \n        <div class=\"p-4 rounded-lg mb-4\" style=\"background: rgba(59, 110, 235, 0.1); border: 1px solid rgba(59, 110, 235, 0.3);\">\n          <p class=\"font-bold text-slate-200 mb-2\">Why This Conversation Worked:</p>\n          <ul class=\"space-y-2 ml-4\">\n            <li class=\"text-slate-300 text-sm\"><strong>Acknowledged Every Test:</strong> You never ignored or dismissed their concerns. Each question was met with validation and warmth.</li>\n            <li class=\"text-slate-300 text-sm\"><strong>Maintained Boundaries:</strong> You stayed firm on no free content and justified your pricing without getting defensive.</li>\n            <li class=\"text-slate-300 text-sm\"><strong>Redirected Consistently:</strong> After every response, you pivoted back to their desires and the personalized value you create.</li>\n            <li class=\"text-slate-300 text-sm\"><strong>Built Value Before Price:</strong> You established what they wanted (roleplay, boss/secretary) before introducing pricing, making the cost feel justified.</li>\n          </ul>\n        </div>\n        \n        <div class=\"p-3 rounded\" style=\"background: rgba(255, 255, 255, 0.03);\">\n          <p class=\"text-slate-300 text-sm mb-2\"><strong>Your Turn:</strong></p>\n          <p class=\"text-slate-400 text-xs\">Use this conversation as a template for your next interaction. Notice how each test is met with warmth, firmness, and immediate redirection to value.</p>\n        </div>\n      </div>",
+          "completed": false
+        }
+      ],
+      "screenshots": [],
+      "videos": [],
+      "examples": [
+        {
+          "scenario": "Client asks: 'Are you a bot?'",
+          "response": "Maybe I am a robot BEEP BOOP 🤖 I'm just joking hehe... I'm not a bot, but I don't blame you for asking since I know that a lot of OF pages use them. Now that we've cleared that up, let's get back to what you were telling me about your favorite fantasy.",
+          "why": "The playful joke immediately proves authenticity while validating their concern. The redirect refocuses attention on personalization."
+        },
+        {
+          "scenario": "Client asks: 'Why are you always online?'",
+          "response": "Wait, does it say I'm always online? I think it's because I always keep my PC on with my OF logged in. But I might be online, I'm only focused on you right now. Tell me the one thing that turns you on the most so I know what to prioritize for our conversation.",
+          "why": "Simple technical explanation removes suspicion without making false promises of exclusivity. The redirect shifts focus to their desires."
+        },
+        {
+          "scenario": "Client asks: 'Can I get free content?'",
+          "response": "Aww, I'm sorry... I just don't do any free content... butttt, you did kinda come at the perfect time. Maybe I could do a REALLY good deal for you this once and give you a taste of what you've been missing out on. Let's make sure I know exactly what you want to see.",
+          "why": "Firmly denies free request while immediately offering a paid solution framed as exclusive opportunity. Maintains value while keeping engagement."
+        },
+        {
+          "scenario": "Client asks: 'Can you video call?'",
+          "response": "Aww, I'm sorry... I just don't do video calls. But you know... if that's what you were looking for, I have an idea I think you're really going to like. I can't call, but I can make you a 60-second, personalized video that is just for your eyes, where I say your name and talk only to you. It's the most personal thing I offer. Does that sound better than a call?",
+          "why": "Validates desire for intimacy while redirecting to a better alternative you can deliver. Creates immediate upsell opportunity."
+        }
+      ],
+      "recap": [
+        "Tricky questions are tests of authenticity, exclusivity, value, or boundaries. Recognize the pattern and respond to the deeper concern.",
+        "Use the three-part framework: Response (warm and direct), Impact (builds trust), Redirect (pivot to personalization).",
+        "Never get defensive. Never make false promises. Never give free content. Maintain boundaries with warmth.",
+        "After acknowledging the question, immediately redirect to their desires, fantasies, and the personalized value you create.",
+        "Use decision checks and micro-branches to assess engagement. Disengage from repeated testing or value mismatches.",
+        "Copy-paste templates are your starting point. Adapt them to fit the conversation naturally.",
+        "Watch for red flags: repeated testing without engagement, persistent free requests, aggressive negotiation, boundary pushing.",
+        "Disengaging is not rude. It is strategic. Focus energy on warm leads who show willingness to invest.",
+        "Practice the Acknowledge + Redirect pattern until it becomes automatic. This works for nearly every tricky question.",
+        "Your time and energy are valuable resources. Protect them by recognizing when a conversation will not convert."
+      ]
+    },
+    "upselling": {
+      "title": "UPSELLING",
+      "skillType": "Monetization",
+      "accentColor": "#7A4AE6",
+      "overview": {
+        "description": "<div class=\"space-y-6\">\n      <div>\n        <h3 class=\"font-bold text-white text-xl mb-3\">UP-SELLING GUIDE: Turning a Single Sale into a Long-Term Investment</h3>\n        <p class=\"text-slate-300 mb-4\">This is one of the most important phases for your long-term success. The client has already shown they are willing to spend money, so the hard part is over. Your goal now is not to sell a second video, but to sell a <strong>continuation of the intense emotional experience</strong> they just paid for.</p>\n        <p class=\"text-slate-300 mb-4\">Up-selling here means maximizing revenue per buyer by striking while their desire is still red-hot.</p>\n      </div>\n    </div>",
+        "goal": "Master the art of post-purchase upselling by capitalizing on peak emotional states to turn single buyers into high-value repeat investors through strategic timing and emotional continuity."
+      },
+      "steps": [
+        {
+          "number": 1,
+          "title": "Why Up-Selling Matters: The Strategy",
+          "content": "<div class=\"space-y-4\">\n        <div>\n          <p class=\"font-bold text-white mb-2\">Maximize Lifetime Value:</p>\n          <p class=\"text-slate-300 text-sm\">You don't want a one-time buyer; you want a repeat investor. Up-selling is the quickest way to move a single buyer into the \"high spender\" category.</p>\n        </div>\n        \n        <div>\n          <p class=\"font-bold text-white mb-2\">Strike While the Iron is Hot:</p>\n          <p class=\"text-slate-300 text-sm\">Right after they finish watching the first PPV, their desire is at its absolute peak. They are flooded with feel-good chemicals and are thinking, <em>\"What's next?\"</em> This is the moment to capitalize on that intense, recent satisfaction.</p>\n        </div>\n        \n        <div>\n          <p class=\"font-bold text-white mb-2\">Justify the Next Sale:</p>\n          <p class=\"text-slate-300 text-sm\">The new offer must be presented as the <strong>next logical, essential step</strong> in their personal fantasy, not a separate transaction.</p>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 2,
+          "title": "Key Principles: Building Momentum Post-Sale",
+          "content": "This section covers the critical principles for maintaining emotional momentum after the initial purchase and setting up the upsell naturally.",
+          "completed": false
+        },
+        {
+          "number": 3,
+          "title": "A. Do NOT Rush (The 15-Minute Rule)",
+          "content": "<div class=\"space-y-4\">\n        <div>\n          <p class=\"font-bold text-white mb-2\">The Trap:</p>\n          <p class=\"text-slate-300 text-sm\">Jumping in immediately with a new price or offer makes you look desperate and breaks the client's emotional high. They feel like you only see them as a wallet.</p>\n        </div>\n        \n        <div>\n          <p class=\"font-bold text-white mb-2\">The Strategy:</p>\n          <p class=\"text-slate-300 text-sm\">Wait at least 10-15 minutes after the first PPV is delivered/watched. Let them enjoy the high, and then ease back in.</p>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 4,
+          "title": "B. Send 2-3 Follow-Up Messages (The Desire Check-In)",
+          "content": "<div class=\"space-y-4\">\n        <div>\n          <p class=\"font-bold text-white mb-2\">Goal:</p>\n          <p class=\"text-slate-300 text-sm\">Reconnect the client's current physical/emotional state back to you. This is the bridge back into the sales conversation.</p>\n        </div>\n        \n        <div>\n          <p class=\"font-bold text-white mb-2\">The Power of Anticipation:</p>\n          <p class=\"text-slate-300 text-sm\">Your messages should be playful, suggestive, and focused on the client's current arousal.</p>\n        </div>\n        \n        <div class=\"mt-4 space-y-3\">\n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(122, 74, 230, 0.1); border: 1px solid rgba(122, 74, 230, 0.2);\">\n            <p class=\"text-slate-300 text-xs italic mb-2\">Example: \"When you're done watching, be honest... how hard is your cock getting for me on a scale of 1-10? ;)\"</p>\n            <p class=\"text-slate-400 text-xs\">(This forces them to acknowledge their current arousal.)</p>\n          </div>\n          \n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(122, 74, 230, 0.1); border: 1px solid rgba(122, 74, 230, 0.2);\">\n            <p class=\"text-slate-300 text-xs italic mb-2\">Example: \"Even if it's hard... just pleaseee make sure you don't cum yet, okay? I really wanna make this a day you and I aren't ever going to forget.\"</p>\n            <p class=\"text-slate-400 text-xs\">(This creates tension and an emotional hook for the next offer: the <em>real</em> release is still coming.)</p>\n          </div>\n          \n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(122, 74, 230, 0.1); border: 1px solid rgba(122, 74, 230, 0.2);\">\n            <p class=\"text-slate-300 text-xs italic mb-2\">Example: \"I'm so excited right now, I can barely even contain myself... I've been sitting on the edge of my bed, fingering my wet lil pussy as I wait for you ;)\"</p>\n            <p class=\"text-slate-400 text-xs\">(This is the <strong>Emotional Anchor</strong>. It tells the client that <em>they</em> are the cause of your current arousal, justifying the next step.)</p>\n          </div>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 5,
+          "title": "C. Brief Sexting (The Emotional Re-Ignition)",
+          "content": "<div class=\"space-y-4\">\n        <div>\n          <p class=\"font-bold text-white mb-2\">Goal:</p>\n          <p class=\"text-slate-300 text-sm\">Before you make the new pitch, you must prove the emotional connection is still alive. Don't launch into a 30-message sexting session; just 2-3 sets of responsive, high-intensity messages are enough to get the client aroused again.</p>\n        </div>\n        \n        <div>\n          <p class=\"font-bold text-white mb-2\">The Technique:</p>\n          <p class=\"text-slate-300 text-sm\">Acknowledge their positive feedback on the last PPV and immediately use it to escalate the fantasy.</p>\n        </div>\n        \n        <div class=\"mt-4 space-y-3\">\n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(122, 74, 230, 0.1); border: 1px solid rgba(122, 74, 230, 0.2);\">\n            <p class=\"text-slate-300 text-xs italic mb-2\">Example: \"I'm SO glad you liked your surprises so much hehe... you're making me wish I could be there so much more right now, sitting on my knees while I lick up every last drop of precum off the tip of your cock ;)\"</p>\n            <p class=\"text-slate-400 text-xs\">(You are linking the past enjoyment to a new, intense fantasy.)</p>\n          </div>\n          \n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(122, 74, 230, 0.1); border: 1px solid rgba(122, 74, 230, 0.2);\">\n            <p class=\"text-slate-300 text-xs italic mb-2\">Example: \"After watching this... are you still so sure you're going to be able to handle how tightly my pussy would be wrapped around your hard cock? ;)\"</p>\n            <p class=\"text-slate-400 text-xs\">(A challenge question that forces them to re-invest their ego and desire.)</p>\n          </div>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 6,
+          "title": "Tease and Propose the Up-Sell (The New Privilege)",
+          "content": "This is where you transition from emotional re-engagement to the actual upsell offer. The key is making it feel like an exclusive privilege, not a sales pitch.",
+          "completed": false
+        },
+        {
+          "number": 7,
+          "title": "A. The Tease",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 text-sm mb-3\">You must announce the new offer with a hint of mystery and excitement.</p>\n        \n        <div class=\"p-3 rounded-lg\" style=\"background: rgba(122, 74, 230, 0.1); border: 1px solid rgba(122, 74, 230, 0.2);\">\n          <p class=\"text-slate-300 text-xs italic mb-2\">Example: \"I wanna try something next... something I've never done before...\"</p>\n          <p class=\"text-slate-400 text-xs\">(This sets the stage for the <em>exclusivity</em> and <em>privilege</em> of the new offer.)</p>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 8,
+          "title": "B. The Proposal",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 text-sm mb-3\">Use the intense imagery created during the brief sexting session to describe the new content.</p>\n        \n        <div class=\"p-3 rounded-lg\" style=\"background: rgba(122, 74, 230, 0.1); border: 1px solid rgba(122, 74, 230, 0.2);\">\n          <p class=\"text-slate-300 text-xs italic mb-2\">Example: \"I really want to get my realistic dildo next, and show you just how hot it's going to look when you fuck me ;)\"</p>\n          <p class=\"text-slate-400 text-xs\">(The proposed content is a direct, logical escalation of the fantasy you just discussed.)</p>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 9,
+          "title": "C. Add Exclusivity (The High-Value Justification)",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 text-sm mb-3\">This is the final seal on the deal. The client must feel like this offer is a secret between the two of you, justified by the unique connection you built.</p>\n        \n        <div class=\"mt-4 space-y-3\">\n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(122, 74, 230, 0.1); border: 1px solid rgba(122, 74, 230, 0.2);\">\n            <p class=\"text-slate-300 text-xs italic mb-2\">Example: \"I've never done this for anyone else before... but there's just something about YOU that has me feeling different.\"</p>\n            <p class=\"text-slate-400 text-xs\">(Uses the emotional connection to justify the high-value offer.)</p>\n          </div>\n          \n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(122, 74, 230, 0.1); border: 1px solid rgba(122, 74, 230, 0.2);\">\n            <p class=\"text-slate-300 text-xs italic mb-2\">Example: \"Just PLEASE keep this between you and I, okay? Then I can make this a day you and I aren't ever going to forget ;)\"</p>\n            <p class=\"text-slate-400 text-xs\">(Creates a shared, high-stakes secret that only they are privy to.)</p>\n          </div>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 10,
+          "title": "Final Rules for Perpetual Value",
+          "content": "These are the golden rules that ensure your upsells continue to work long-term and clients keep coming back for more.",
+          "completed": false
+        },
+        {
+          "number": 11,
+          "title": "Always Upsell Something Better Than Before",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 text-sm mb-3\">Every new offer must feel like an upgrade—more access, more emotion, more intimacy, or more intensity.</p>\n        \n        <div>\n          <p class=\"font-bold text-white mb-2\">The Psychology:</p>\n          <p class=\"text-slate-300 text-sm mb-3\">Clients won't spend more money for the <em>same</em> feeling. They pay more for the next level of fulfillment.</p>\n        </div>\n        \n        <div class=\"mt-4 space-y-3\">\n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(122, 74, 230, 0.1); border: 1px solid rgba(122, 74, 230, 0.2);\">\n            <p class=\"text-slate-300 text-xs\">Example: Use phrases like <em>\"This next one is way more intense than anything I've shown you before...\"</em> or <em>\"It would be really special if I could make you the first person to see this ;)\"</em></p>\n          </div>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 12,
+          "title": "Use Incentives to Drive Immediate Action",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 text-sm mb-3\">Incentives are the final nudge to overcome any remaining price objection. They make the purchase feel like a \"win.\"</p>\n        \n        <div class=\"p-3 rounded-lg\" style=\"background: rgba(122, 74, 230, 0.1); border: 1px solid rgba(122, 74, 230, 0.2);\">\n          <p class=\"text-slate-300 text-xs italic mb-2\">Example: \"I'll even tell you what... if you can watch this without cumming, I'll even spoil you with 5 extra free surprises to go along with it.\"</p>\n          <p class=\"text-slate-400 text-xs\">(The incentive is framed as a reward for a challenge, making the client feel skilled and important.)</p>\n        </div>\n      </div>",
+          "completed": false
+        },
+        {
+          "number": 13,
+          "title": "The Golden Rule",
+          "content": "<div class=\"space-y-4\">\n        <p class=\"text-slate-300 text-sm mb-3\">The up-sell must feel <strong>natural, not forced</strong>. If you've properly executed the follow-up messages and brief sexting, the client should feel excited and ready to receive the proposal.</p>\n        <p class=\"text-slate-300 text-sm\">If they hesitate or seem uncertain, do not push. Return to rapport building and try again later. Forcing the sale damages trust and kills future opportunities.</p>\n      </div>",
+          "completed": false
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Client just finished watching their first PPV (wait 10-15 minutes, then send desire check-in)",
+          "response": "When you're done watching, be honest... how hard is your cock getting for me on a scale of 1-10? ;)",
+          "why": "You're reconnecting their physical state back to you after giving them time to enjoy the purchase, creating a bridge back into the sales conversation without rushing."
+        },
+        {
+          "scenario": "Client responds positively to the first PPV (emotional anchor message)",
+          "response": "I'm so excited right now, I can barely even contain myself... I've been sitting on the edge of my bed, fingering my wet lil pussy as I wait for you ;)",
+          "why": "You're using the Emotional Anchor technique to make them feel responsible for your current arousal, which justifies the next step and makes them feel powerful and validated."
+        },
+        {
+          "scenario": "Client is engaged after follow-up messages (brief sexting re-ignition)",
+          "response": "I'm SO glad you liked your surprises so much hehe... you're making me wish I could be there so much more right now, sitting on my knees while I lick up every last drop of precum off the tip of your cock ;)",
+          "why": "You're linking their past enjoyment to a new, intense fantasy, proving the emotional connection is still alive and escalating arousal for the upsell."
+        },
+        {
+          "scenario": "Ready to introduce the upsell (the tease)",
+          "response": "I wanna try something next... something I've never done before...",
+          "why": "You're creating mystery and excitement around the new offer, setting the stage for exclusivity and privilege rather than making it feel like a transaction."
+        },
+        {
+          "scenario": "Presenting the actual upsell offer (the proposal)",
+          "response": "I really want to get my realistic dildo next, and show you just how hot it's going to look when you fuck me ;)",
+          "why": "You're describing the upsell as a direct, logical escalation of the fantasy you just discussed during brief sexting, making it feel like the natural next step."
+        },
+        {
+          "scenario": "Closing the upsell (exclusivity justification)",
+          "response": "I've never done this for anyone else before... but there's just something about YOU that has me feeling different. Just PLEASE keep this between you and I, okay? Then I can make this a day you and I aren't ever going to forget ;)",
+          "why": "You're using the emotional connection to justify the high-value offer and creating a shared secret that makes them feel uniquely special and privileged."
+        },
+        {
+          "scenario": "Client seems hesitant about the upsell price",
+          "response": "I'll even tell you what... if you can watch this without cumming, I'll even spoil you with 5 extra free surprises to go along with it.",
+          "why": "You're using an incentive framed as a challenge-reward to overcome price objection, making them feel skilled and important rather than just spending more money."
+        }
+      ],
+      "recap": [
+        "Upsell immediately after purchase while desire is red-hot",
+        "Goal is to sell continuation of emotional experience, not just another video",
+        "Maximize lifetime value by moving buyers into high spender category",
+        "Strike while iron is hot: right after PPV, desire is at absolute peak",
+        "Justify next sale as the next logical, essential step in their fantasy",
+        "Do NOT rush: wait 10-15 minutes after delivery (The 15-Minute Rule)",
+        "Send 2-3 follow-up messages to reconnect their physical state back to you",
+        "Use desire check-ins: playful, suggestive messages focused on current arousal",
+        "Deploy Emotional Anchor: make them feel they caused your current arousal",
+        "Brief sexting (2-3 messages) to prove emotional connection is still alive",
+        "The Tease: announce new offer with mystery and excitement",
+        "The Proposal: use intense imagery from brief sexting to describe content",
+        "Add Exclusivity: make offer feel like secret between you justified by connection",
+        "Always upsell something better: more access, emotion, intimacy, or intensity",
+        "Clients pay more for next level of fulfillment, not the same feeling",
+        "Use incentives to drive immediate action and overcome price objections",
+        "The Golden Rule: upsell must feel natural, not forced",
+        "If client hesitates, return to rapport building; don't force the sale"
+      ]
+    },
+    "ppvProposal": {
+      "title": "PPV PROPOSAL",
+      "skillType": "Conversion",
+      "accentColor": "#EC4899",
+      "overview": {
+        "description": "<div class=\"space-y-6\">\n      <div>\n        <p class=\"text-slate-300 mb-4\">The core of this formula is to transition the client from arousal (Sexting) to investment (PPV) by making the purchase feel like a <strong>necessary emotional release</strong> and an <strong>exclusive privilege</strong>.</p>\n        <p class=\"text-slate-300 mb-4\">This is not a sales pitch. This is the natural conclusion of the emotional journey you have been building together. Done correctly, the client will feel like saying \"yes\" is the only logical next step.</p>\n      </div>\n      \n      <div>\n        <h3 class=\"font-bold text-white text-xl mb-3\">The Three-Step Formula for Irresistible Conversion</h3>\n        <p class=\"text-slate-300 mb-3\">Every successful PPV proposal follows this exact structure. Master this sequence and you will see your conversion rates skyrocket.</p>\n        <div class=\"grid grid-cols-3 gap-3 my-4\">\n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(236, 72, 153, 0.1); border: 1px solid rgba(236, 72, 153, 0.2);\">\n            <p class=\"font-bold text-pink-300 mb-2 text-sm\">STEP 1: The Emotional Anchor</p>\n            <p class=\"text-slate-300 text-xs\">Express how the model is feeling</p>\n          </div>\n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(236, 72, 153, 0.1); border: 1px solid rgba(236, 72, 153, 0.2);\">\n            <p class=\"font-bold text-pink-300 mb-2 text-sm\">STEP 2: The High-Value Tease</p>\n            <p class=\"text-slate-300 text-xs\">Tell him what you're wanting to send</p>\n          </div>\n          <div class=\"p-3 rounded-lg\" style=\"background: rgba(236, 72, 153, 0.1); border: 1px solid rgba(236, 72, 153, 0.2);\">\n            <p class=\"font-bold text-pink-300 mb-2 text-sm\">STEP 3: The Final Commitment</p>\n            <p class=\"text-slate-300 text-xs\">End with a question that prompts him to say yes</p>\n          </div>\n        </div>\n        <p class=\"text-slate-300 mt-3\"><strong>Why This Works:</strong> You are creating an emotional state (arousal + validation), describing a valuable reward (the content), and then offering a low-friction commitment question that makes saying \"yes\" feel effortless.</p>\n      </div>\n    </div>",
+        "goal": "Transform peak arousal moments into seamless PPV conversions by using a three-step emotional formula that makes the purchase feel like a necessary next step, not a transaction."
+      },
+      "steps": [
+        {
+          "number": 1,
+          "title": "Express How the Model is Feeling (The Emotional Anchor)",
+          "content": "<strong>Example:</strong> \"I'm honestly so turned on right now... I hope it's not a problem that I've been teasing my pussy over my panties this entire time.\"<br><br><div class=\"mt-4 grid grid-cols-2 gap-4\"><div class=\"p-3 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\"><p class=\"font-bold text-white mb-2 text-sm\">Purpose (The Why)</p><p class=\"text-slate-300 text-xs mb-3\"><strong>Justify the Urgency (The Sexting Payoff):</strong> This step confirms that the intense Sexting exchange they just had was real, effective, and reciprocal. It gives them the immediate satisfaction of knowing they achieved arousal in you.</p><p class=\"text-slate-300 text-xs\"><strong>Creates Exclusivity:</strong> By revealing a \"secret\" or a direct physical action taken <em>during</em> their chat, you make the client feel uniquely important and emotionally close to you.</p></div><div class=\"p-3 rounded-lg\" style=\"background: rgba(236, 72, 153, 0.15); border: 1px solid rgba(236, 72, 153, 0.3);\"><p class=\"font-bold text-white mb-2 text-sm\">Strategic Impact (The Client's Mindset)</p><p class=\"text-slate-300 text-xs mb-3\"><strong>\"I caused this.\"</strong> The client feels powerful, validated, and directly responsible for the model's emotional state. This <strong>personalizes the urgency</strong>; they aren't just buying content, they are completing an intense interaction they started.</p><p class=\"text-slate-300 text-xs\"><strong>\"This is just for me.\"</strong> This moves the conversation from the general (\"You do this for everyone\") to the hyper-specific (\"This only happened because of our chat\").</p></div></div>",
+          "completed": false
+        },
+        {
+          "number": 2,
+          "title": "Tell Him What You're Wanting to Send (The High-Value Tease)",
+          "content": "<strong>Example:</strong> \"I really want to get something ready for us, and show you just how soaking wet I'm feeling right now.\"<br><br><div class=\"mt-4 grid grid-cols-2 gap-4\"><div class=\"p-3 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\"><p class=\"font-bold text-white mb-2 text-sm\">Purpose (The Why)</p><p class=\"text-slate-300 text-xs mb-3\"><strong>Specific Value Proposition (The Teaser/Hook):</strong> This is where you use the data you gathered in the KYC phase. The content you describe must directly target the specific kinks/desires they shared. <strong>Never be vague.</strong></p><p class=\"text-slate-300 text-xs\"><strong>Frames it as a Shared Action:</strong> Use collective language (\"for us,\" \"show you\"). This makes the PPV feel like a continuation of the intimate interaction, not a transactional pause. <strong>It's a shared secret, not a financial request.</strong></p></div><div class=\"p-3 rounded-lg\" style=\"background: rgba(236, 72, 153, 0.15); border: 1px solid rgba(236, 72, 153, 0.3);\"><p class=\"font-bold text-white mb-2 text-sm\">Strategic Impact (The Client's Mindset)</p><p class=\"text-slate-300 text-xs mb-3\"><strong>\"It's exactly what I wanted.\"</strong> The client instantly connects the intense emotional state (created in Step 1) with the specific emotional reward (the content). The value is immediately justified because it perfectly targets their specific need.</p><p class=\"text-slate-300 text-xs\"><strong>\"This is the next step in our moment.\"</strong> This reinforces the emotional relationship you've built. The client feels obligated to participate to complete the \"moment\" you've been building together.</p></div></div>",
+          "completed": false
+        },
+        {
+          "number": 3,
+          "title": "End with a Question that Prompts Him to Say Yes (The Final Commitment)",
+          "content": "<strong>Example:</strong> \"Are you sure you're ready for this, Mr.?\"<br><br><div class=\"mt-4 grid grid-cols-2 gap-4\"><div class=\"p-3 rounded-lg\" style=\"background: rgba(255, 255, 255, 0.05);\"><p class=\"font-bold text-white mb-2 text-sm\">Purpose (The Why)</p><p class=\"text-slate-300 text-xs mb-3\"><strong>Shifts Responsibility (The Commitment Close):</strong> The question is designed to make the client prove <em>they can commit</em>. It is a psychological closing technique that flips the script: now <em>they say yes</em> for money; <em>they have to prove they are worthy</em> of receiving this specific, intense content.</p><p class=\"text-slate-300 text-xs\"><strong>Finalizes the Escalation:</strong> The use of a title (\"Mr,\" \"Sir,\" etc., based on their kink from KYC) is a final, personalized touch that uses the highest emotional value to deliver the call to action.</p></div><div class=\"p-3 rounded-lg\" style=\"background: rgba(236, 72, 153, 0.15); border: 1px solid rgba(236, 72, 153, 0.3);\"><p class=\"font-bold text-white mb-2 text-sm\">Strategic Impact (The Client's Mindset)</p><p class=\"text-slate-300 text-xs mb-3\"><strong>\"I have to say yes.\"</strong> The question creates a challenge. To say \"no\" would mean admitting they aren't \"ready\" or can't handle the intensity, which is a blow to their ego. The only acceptable response is a committed, affirmative \"Yes.\"</p><p class=\"text-slate-300 text-xs\"><strong>\"This is the moment.\"</strong> The question immediately precedes the payment link, transforming the financial request into the exciting, final step of the game you've been playing.</p></div></div>",
+          "completed": false
+        },
+        {
+          "number": 4,
+          "title": "Why the Three Steps Work Together",
+          "content": "This formula works because it addresses the complete emotional journey:<br><br><strong>Step 1 (Emotional Anchor)</strong> creates the <em>urgency</em> and makes the client feel responsible.<br><br><strong>Step 2 (High-Value Tease)</strong> describes the <em>reward</em> that perfectly satisfies their specific desire.<br><br><strong>Step 3 (Final Commitment)</strong> reframes the <em>payment</em> as a challenge and a privilege, not a cost.<br><br>When executed in sequence, the client doesn't think \"Should I buy this?\" They think \"I need to say yes right now.\"",
+          "completed": false
+        },
+        {
+          "number": 5,
+          "title": "Timing is Everything: When to Deploy the PPV Proposal",
+          "content": "<strong>The Golden Moment:</strong> Deploy this formula at peak arousal. You will know this moment by rapid replies, explicit language, and clear signals of high engagement.<br><br><strong>Never rush it.</strong> If you propose too early, the client isn't emotionally invested enough. If you wait too long, the intensity fades and the urgency disappears.<br><br><strong>The Perfect Window:</strong> Right after a highly charged sexting exchange where the client has explicitly expressed desire or arousal.",
+          "completed": false
+        },
+        {
+          "number": 6,
+          "title": "Customization is Key: Use Their KYC Data",
+          "content": "The content you describe in Step 2 must directly reference the specific kinks, desires, or details they shared during the KYC phase.<br><br><strong>Generic Proposal (Weak):</strong> \"I want to send you something hot.\"<br><br><strong>Personalized Proposal (Strong):</strong> \"I want to show you exactly what you described wanting to see: me slowly teasing myself while I imagine you watching, just like you told me turns you on.\"<br><br>The specific callback to their KYC data makes the content feel irreplaceable and custom-made for them.",
+          "completed": false
+        },
+        {
+          "number": 7,
+          "title": "Use 'We' and 'Us' Language to Create Partnership",
+          "content": "The PPV proposal should never feel transactional. Frame it as a shared experience, not a one-sided purchase.<br><br><strong>Transactional (Weak):</strong> \"I made a video you can buy.\"<br><br><strong>Partnership (Strong):</strong> \"I want to get something ready <em>for us</em>, so we can finish what we started together.\"<br><br>This linguistic shift transforms the purchase from a transaction into a mutual commitment to complete the intimate moment you've been building.",
+          "completed": false
+        },
+        {
+          "number": 8,
+          "title": "The Power of Titles and Personalization",
+          "content": "Using a personalized title or name in Step 3 is the final psychological nudge that seals the deal.<br><br>If they told you during KYC that they like being called \"Sir,\" \"Daddy,\" \"Mr.,\" or any other title, use it in the closing question.<br><br><strong>Generic (Weak):</strong> \"Are you ready for this?\"<br><br><strong>Personalized (Strong):</strong> \"Are you sure you're ready for this, Daddy?\"<br><br>This small detail makes the entire proposal feel like it was crafted specifically for them.",
+          "completed": false
+        },
+        {
+          "number": 9,
+          "title": "Keep the Language Playful and Confident",
+          "content": "The tone should be flirtatious, confident, and slightly teasing. Never apologetic or hesitant.<br><br><strong>Weak Tone:</strong> \"If you want, I could maybe send you something?\"<br><br><strong>Strong Tone:</strong> \"I'm honestly so turned on right now... I hope it's not a problem that I've been teasing my pussy over my panties this entire time.\"<br><br>Confidence signals value. If you sound uncertain, the client will be uncertain. If you sound excited and playful, the client will mirror that energy.",
+          "completed": false
+        },
+        {
+          "number": 10,
+          "title": "Immediately Follow with the Payment Link",
+          "content": "Do not wait for them to respond to Step 3. The question is rhetorical. Immediately send the payment link after the question.<br><br>The sequence should look like this:<br>1. \"Are you sure you're ready for this, Mr.?\"<br>2. [Payment link]<br><br>This removes friction and makes the purchase feel like the natural next click, not a separate decision.",
+          "completed": false
+        },
+        {
+          "number": 11,
+          "title": "Fatal Pitfall: Being Vague About the Content",
+          "content": "<strong>The Error:</strong> \"I want to send you something hot.\"<br><br><strong>The Problem:</strong> This is too generic. The client doesn't know what they're getting, so the perceived value is low.<br><br><strong>The Fix:</strong> Be specific. Reference their KYC details. \"I want to show you exactly what you described: me playing with myself while wearing that outfit you mentioned.\"<br><br>Specificity = Value.",
+          "completed": false
+        },
+        {
+          "number": 12,
+          "title": "Fatal Pitfall: Proposing Too Early or Too Late",
+          "content": "<strong>The Error:</strong> Sending the PPV proposal before the client is emotionally invested, or waiting so long that the arousal has faded.<br><br><strong>The Problem:</strong> Early proposals feel transactional. Late proposals miss the peak urgency window.<br><br><strong>The Fix:</strong> Watch for arousal signals: rapid replies, explicit language, clear engagement. Propose immediately after a high-intensity exchange.",
+          "completed": false
+        },
+        {
+          "number": 13,
+          "title": "Fatal Pitfall: Weak or Apologetic Language",
+          "content": "<strong>The Error:</strong> \"If you want, maybe I could send something?\"<br><br><strong>The Problem:</strong> This signals low confidence and makes the client question the value.<br><br><strong>The Fix:</strong> Be confident and direct. \"I'm honestly so turned on right now. I really want to show you exactly what you've been imagining.\"<br><br>Confidence = Authority = Premium Pricing.",
+          "completed": false
+        },
+        {
+          "number": 14,
+          "title": "Advanced Technique: The False Choice Close",
+          "content": "Instead of asking \"Do you want this?\" (which allows for \"no\"), offer a choice between two yeses:<br><br><strong>Example:</strong> \"Would you rather see me in the red set or the black one you mentioned loving?\"<br><br>This assumes the purchase is happening and only asks for a preference, making it psychologically harder to decline.",
+          "completed": false
+        },
+        {
+          "number": 15,
+          "title": "Track What Works: Test and Refine",
+          "content": "Not every client responds to the same language. Pay attention to what specific phrases, tones, and timing strategies yield the highest conversions.<br><br><strong>Test different approaches:</strong><br>• Playful vs. intense<br>• Short vs. detailed descriptions<br>• Immediate link vs. brief pause<br><br>Track your results and double down on what converts best for your specific audience.",
+          "completed": false
+        }
+      ],
+      "examples": [
+        {
+          "scenario": "Client has just finished an intense sexting exchange with rapid replies and explicit language",
+          "response": "I'm honestly so turned on right now... I hope it's not a problem that I've been teasing my pussy over my panties this entire time. I really want to get something ready for us, and show you just how soaking wet I'm feeling right now. Are you sure you're ready for this, Mr.? [Payment Link]",
+          "why": "You anchored with emotion (Step 1: showing the client they caused your arousal), teased high-value content specific to the moment (Step 2: the physical result of the chat), and closed with a challenge question using their preferred title (Step 3: prompting commitment). The payment link immediately follows, removing friction."
+        },
+        {
+          "scenario": "Client mentioned during KYC that they love watching you in lingerie",
+          "response": "You've got me so worked up... I've been thinking about what you said earlier about that black lingerie set. I want to show you exactly what you've been imagining. Should I go get changed for you right now, Sir? [Payment Link]",
+          "why": "You anchored with their specific KYC detail (black lingerie), framed it as a shared moment ('for you'), and used their preferred title. The question assumes they want it and only asks for timing confirmation, which is a soft close."
+        },
+        {
+          "scenario": "Client is engaged but hasn't explicitly said they're aroused",
+          "response": "This conversation has me feeling so good right now. I want to make something special just for us, something that shows you exactly what we've been talking about. Are you ready to see where this goes, Daddy? [Payment Link]",
+          "why": "You created urgency by expressing your emotional state, framed the content as co-created ('for us'), and used a challenge question with their title to prompt commitment. Even without explicit arousal signals, you're leveraging the intimacy built so far."
+        },
+        {
+          "scenario": "Client has been hesitant to commit to purchases in the past",
+          "response": "I have to be honest... what we've been talking about has me so turned on. I want to show you something that I think would blow your mind, but I'm only going to send it to someone who's really ready to see it. Is that you, Mr.? [Payment Link]",
+          "why": "You're using scarcity ('only going to send it to someone who's really ready') and a challenge question that appeals to their ego. This reframes hesitation as a test they need to pass, making 'yes' the only acceptable answer."
+        },
+        {
+          "scenario": "Client has high engagement but short reply style",
+          "response": "You're driving me crazy right now. I need to show you what you're doing to me. Ready? [Payment Link]",
+          "why": "You matched their communication style (short, direct) while still hitting all three steps: emotional state, value tease, and commitment question. The brevity maintains the momentum without losing intensity."
+        }
+      ],
+      "recap": [
+        "The PPV proposal formula has three steps: Emotional Anchor → High-Value Tease → Final Commitment",
+        "Step 1 (Emotional Anchor): Express how the model is feeling to justify urgency and create exclusivity",
+        "Step 2 (High-Value Tease): Describe the specific content using KYC data to make it feel custom and irreplaceable",
+        "Step 3 (Final Commitment): Ask a challenge question using their preferred title to prompt them to say yes",
+        "Deploy the formula at peak arousal: rapid replies, explicit language, high engagement",
+        "Use 'we' and 'us' language to frame the PPV as a shared experience, not a transaction",
+        "Be specific about content; vague descriptions have low perceived value",
+        "Personalize the closing question with titles or names from KYC for maximum impact",
+        "Use confident, playful language; never apologetic or hesitant",
+        "Send the payment link immediately after the closing question to remove friction",
+        "Never propose too early (low investment) or too late (faded intensity)",
+        "Test different approaches and track what converts best for your audience",
+        "Specificity equals value; reference their exact KYC details",
+        "The false choice close ('red set or black?') assumes the purchase is happening",
+        "Confidence signals authority and justifies premium pricing"
+      ]
+    },
+    "advancedFrameControl": {
+      "title": "ADVANCED FRAME CONTROL",
+      "skillType": "Live Coaching",
+      "accentColor": "#8B5CF6",
+      "description": "Live coaching scripts - Read this with your writer in real time",
+      "exercises": [
+        {
+          "id": "pull-1",
+          "technique": "Pull Conversion",
+          "scenario": "Writer wants to pitch custom content",
+          "prompt": "They're about to send: 'you're gonna love this custom I made for you 😍'\n\nRewrite this as PULL:",
+          "goodExamples": [
+            "I want you to see this",
+            "I want you to see what I made",
+            "I made something for you"
+          ],
+          "badExamples": [
+            "you're gonna love this",
+            "this will make you so hard",
+            "you're not ready for this",
+            "this is gonna blow your mind"
+          ],
+          "coachingHints": [
+            "Push = telling them what they'll feel",
+            "Pull = expressing what YOU want",
+            "Remove predictions about their reaction",
+            "Make it about what you want them to see, not what they'll feel"
+          ]
+        },
+        {
+          "id": "pull-2",
+          "technique": "Pull Conversion",
+          "scenario": "Writer is teasing new content",
+          "prompt": "They're about to send: 'this video is gonna make you cum so hard 💦'\n\nRewrite this as PULL:",
+          "goodExamples": [
+            "I want you to see this video",
+            "I need you to see what I made",
+            "I want you to watch this"
+          ],
+          "badExamples": [
+            "this will make you cum so hard",
+            "you're gonna love this video",
+            "this is gonna make you explode"
+          ],
+          "coachingHints": [
+            "Stop telling him what he'll feel",
+            "Express what YOU want instead",
+            "Pull makes them curious, push makes them resist"
+          ]
+        },
+        {
+          "id": "pull-3",
+          "technique": "Pull Conversion",
+          "scenario": "Writer is introducing exclusive content",
+          "prompt": "They're about to send: 'you might not be ready for what I have 😏'\n\nRewrite this as PULL:",
+          "goodExamples": [
+            "I don't think you're ready for this yet",
+            "not sure you can handle this",
+            "I don't know if you're ready for what I have"
+          ],
+          "badExamples": [
+            "you might not be ready",
+            "this might be too much for you",
+            "you're probably not ready"
+          ],
+          "coachingHints": [
+            "Flip it: YOU decide if they're ready, not them",
+            "Make it about YOUR judgment, not their potential reaction",
+            "Pull = you hold the power"
+          ]
+        },
+        {
+          "id": "reset-1",
+          "technique": "Control Reset",
+          "scenario": "Writer is losing control - sent 3 messages in a row explaining the price",
+          "prompt": "They just sent:\n'well the content is really high quality'\n'I spent a lot of time on it'\n'most people think it's worth way more'\n\nWhat should they do RIGHT NOW?",
+          "goodExamples": [
+            "Stop. You just lost control. Reset.",
+            "Stop. That's reactive. Reset control.",
+            "You're explaining yourself. Stop. Reset."
+          ],
+          "badExamples": [
+            "send another message",
+            "lower the price",
+            "add more content to the bundle",
+            "justify it more"
+          ],
+          "coachingHints": [
+            "Multiple messages = reactive energy",
+            "Explaining = loss of control",
+            "Reset immediately before more damage",
+            "Say: 'Stop. Reset. One message at a time.'"
+          ]
+        },
+        {
+          "id": "reset-2",
+          "technique": "Control Reset",
+          "scenario": "Fan says 'that's too expensive' and writer immediately starts justifying",
+          "prompt": "Writer is about to explain why the price is fair.\n\nWhat's the intervention?",
+          "goodExamples": [
+            "Stop. Don't justify. Reset control.",
+            "That's reactive energy. Stop and reset.",
+            "No explaining. Reset and send ONE controlled message."
+          ],
+          "badExamples": [
+            "explain the value",
+            "lower the price",
+            "tell them why it's worth it"
+          ],
+          "coachingHints": [
+            "Justifying = losing frame",
+            "Price objections are tests, not invitations to explain",
+            "Reset to controlled, non-reactive energy"
+          ]
+        },
+        {
+          "id": "value-1",
+          "technique": "Value Hold",
+          "scenario": "Fan says: 'can you do $20 instead of $30?'",
+          "prompt": "Writer is about to accept $20.\n\nWhat should they say instead?",
+          "goodExamples": [
+            "No discount. Say: 'price is firm babe'",
+            "Hold value. Say: 'I don't do discounts'",
+            "Don't lower price. Say: 'that's the price'",
+            "Say: 'maybe this just isn't for you then 🤷‍♀️'"
+          ],
+          "badExamples": [
+            "okay $20 works",
+            "I can do $25",
+            "how about $22?",
+            "I'll add more content for $30"
+          ],
+          "coachingHints": [
+            "Never lower price. Ever.",
+            "Dropping price = dropping value",
+            "Hold firm and increase desire instead",
+            "Price objections are tests of conviction"
+          ]
+        },
+        {
+          "id": "value-2",
+          "technique": "Value Hold",
+          "scenario": "Fan says: 'too expensive, add more and I'll pay'",
+          "prompt": "Writer is about to add more content to justify the price.\n\nWhat's the response?",
+          "goodExamples": [
+            "No. Don't add more. Hold the value.",
+            "Stop. That's the bundle. Price is firm.",
+            "No negotiation. The price is the price."
+          ],
+          "badExamples": [
+            "okay I'll add another video",
+            "how about I throw in some photos",
+            "I can add more if you want"
+          ],
+          "coachingHints": [
+            "Adding more = lowering value per item",
+            "You don't negotiate. You hold firm.",
+            "Increase desire, don't increase quantity"
+          ]
+        },
+        {
+          "id": "value-3",
+          "technique": "Value Hold",
+          "scenario": "Fan says: 'I'll only pay $15'",
+          "prompt": "What's the value hold response they should send?",
+          "goodExamples": [
+            "maybe this just isn't for you then 🤷‍♀️",
+            "that's the price babe",
+            "I don't do discounts",
+            "price is firm"
+          ],
+          "badExamples": [
+            "okay $15 works",
+            "I can do $18",
+            "how about $17?"
+          ],
+          "coachingHints": [
+            "Make THEM increase desire, don't you decrease price",
+            "Pull away when they push for discount",
+            "Confidence holds value"
+          ]
+        },
+        {
+          "id": "reactive-1",
+          "technique": "Reactive Sexting",
+          "scenario": "Fan says: 'I'd pin you against the wall'\nWriter is about to send a generic sexting line",
+          "prompt": "Respond using HIS exact words:",
+          "goodExamples": [
+            "Use 'pin me against the wall' in your response",
+            "Reference 'the wall' - make it reactive",
+            "Say something like: 'mmm pin me against the wall and...'"
+          ],
+          "badExamples": [
+            "I'd ride you so hard",
+            "mmm that's hot",
+            "I want you inside me",
+            "you're making me wet"
+          ],
+          "coachingHints": [
+            "Generic = could be sent to anyone",
+            "Reactive = uses HIS words",
+            "Echo back what he said, then build on it"
+          ]
+        },
+        {
+          "id": "reactive-2",
+          "technique": "Reactive Sexting",
+          "scenario": "Fan says: 'I want to take it slow with you'\nWriter sends: 'I want you so bad 💦'",
+          "prompt": "That's generic. What should they send instead?",
+          "goodExamples": [
+            "Stop. Use his words. Reference 'slow'",
+            "Rewrite it: 'mmm taking it slow with you...'",
+            "Reactive response using 'slow' in your message"
+          ],
+          "badExamples": [
+            "I want you so bad",
+            "you're making me wet",
+            "I need you inside me"
+          ],
+          "coachingHints": [
+            "He said 'slow' - use that word",
+            "If you could send it to anyone, it's generic",
+            "Make every reply reference what HE said"
+          ]
+        },
+        {
+          "id": "reactive-3",
+          "technique": "Reactive Sexting",
+          "scenario": "Fan says: 'I'd make you beg for it'\nWriter sends: 'mmm I'm so horny'",
+          "prompt": "That's generic. Fix it:",
+          "goodExamples": [
+            "Use 'beg' in your response",
+            "Say: 'make me beg for it then...'",
+            "Reference what he said: 'you'd make me beg?'"
+          ],
+          "badExamples": [
+            "I'm so horny",
+            "I want you",
+            "you're so hot"
+          ],
+          "coachingHints": [
+            "Every reply must use something he said",
+            "Generic kills immersion",
+            "Reactive creates emotional investment"
+          ]
+        }
+      ]
+    }
+  }
+}

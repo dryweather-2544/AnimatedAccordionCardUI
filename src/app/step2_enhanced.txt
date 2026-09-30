@@ -1,0 +1,357 @@
+ENHANCED STEP 2: FIRST PPV OR TEASE
+
+This demonstrates the full enhancement pattern that will be applied to all remaining sections.
+
+=== NEW NESTED ITEMS STRUCTURE ===
+
+{
+  label: "FRAMEWORK: The post PPV momentum loop",
+  content: (
+    <div className="space-y-4 text-sm leading-relaxed">
+      <p className="text-slate-200 font-semibold">Most chats die after the first unlock because writers think the sale is the end. It's not. The unlock is where the real work starts.</p>
+      
+      <p className="text-slate-200">The goal is to create a loop where every step feeds the next, preventing mental exit and maintaining arousal through the transaction.</p>
+      
+      <div className="bg-slate-800/50 border border-slate-700 rounded-lg p-4 mt-4">
+        <p className="text-slate-100 font-semibold mb-3">THE LOOP STRUCTURE:</p>
+        <div className="space-y-2 text-slate-300">
+          <p>1. PPV framing → Make it feel like a moment, not a product</p>
+          <p>2. Post unlock engagement → Keep them active immediately</p>
+          <p>3. Exclusivity positioning → Make them feel chosen</p>
+          <p>4. Rebuilding intimacy → Bridge the transaction gap</p>
+          <p>5. Visualization escalation → Paint mental pictures</p>
+          <p>6. Physical anchoring + freebie → Reward and condition</p>
+          <p>7. Control seed → Create unfinished loops</p>
+        </div>
+      </div>
+      
+      <OneLiner text="If you skip even one step, the fan unlocks, reacts once, and disengages. Not because the content was bad, but because the experience broke." />
+      
+      <DecisionCheck conditions={[
+        { condition: "they unlock and go silent", action: "You skipped post unlock engagement" },
+        { condition: "they say 'thanks' and disengage", action: "You didn't rebuild intimacy fast enough" },
+        { condition: "they don't unlock the second PPV", action: "The loop broke somewhere between steps 4 and 7" }
+      ]} />
+    </div>
+  )
+},
+
+{
+  label: "Step 1: PPV framing (preoffer)",
+  content: (
+    <div className="space-y-4">
+      <div className="space-y-3 text-sm leading-relaxed">
+        <p className="text-slate-200">This happens before the unlock and determines how the PPV is perceived.</p>
+        
+        <p className="text-slate-200">The goal is to make the content feel like something you're excited to share, not something you're charging for.</p>
+        
+        <p className="text-slate-200">When you frame it casually and with curiosity or playfulness, you prime the fan to unlock with interest instead of looking at the price.</p>
+      </div>
+      
+      <CopyPastePrompts 
+        structure={[
+          "Start with emotional excitement (LOVE, can't wait, omg)",
+          "Describe a specific moment, not generic content",
+          "Add a curiosity hook or teaser detail",
+          "Keep it playful (hehe, 🙈, etc.)"
+        ]}
+        prompts={[
+          "id LOVE to show you my outfit for the day… and the tail end of an intense orgasm hehe",
+          "i just finished something and honestly… youre the first person i thought of sending it to",
+          "okay this might be too much but… i recorded the exact moment i [specific detail] and i cant stop thinking about your reaction"
+        ]}
+      />
+      
+      <WatchFor signals={[
+        "Good framing sounds excited and personal, not salesy",
+        "Bad framing mentions price or features upfront",
+        "If they respond with 'how much?' instead of curiosity, framing was weak"
+      ]} />
+      
+      <IfSkipped consequences={[
+        "The PPV feels like a product instead of a moment",
+        "The unlock becomes the end instead of the beginning",
+        "The fan pays defensively and the interaction dies at the transaction"
+      ]} />
+      
+      <MicroBranch branches={[
+        { condition: "they respond 'omg yes' or similar", action: "Send the PPV immediately with minimal description" },
+        { condition: "they ask 'what is it?'", action: "Give one more teaser line, then send" },
+        { condition: "they go silent", action: "Wait 5 min, then pivot back to conversation" }
+      ]} />
+    </div>
+  )
+},
+
+{
+  label: "Step 2: Post unlock engagement",
+  content: (
+    <div className="space-y-4">
+      <div className="space-y-3 text-sm leading-relaxed">
+        <p className="text-slate-200">The moment they unlock is the highest attention point in the entire interaction.</p>
+        
+        <p className="text-slate-200">Most writers waste it by going silent or waiting for a reaction.</p>
+        
+        <p className="text-slate-200">Asking what caught their attention immediately keeps them active and shifts them from "buying porn" back into "participant."</p>
+      </div>
+      
+      <Copy PastePrompts 
+        prompts={[
+          "omg hehe tell me honestly… which part caught your attention the most?",
+          "okay so… what did you think? 😊",
+          "be honest with me… did that live up to what you were hoping for?"
+        ]}
+      />
+      
+      <OneLiner text="Silence after an unlock kills momentum. A question keeps them talking and emotionally invested." />
+      
+      <IfSkipped consequences={[
+        "Momentum dies immediately",
+        "The fan feels like they bought a product, not entered an experience",
+        "They don't respond, and the chat ends"
+      ]} />
+      
+      <Checklist 
+        items={[
+          "They unlocked the PPV",
+          "You sent engagement question within 30 seconds",
+          "They responded to your question",
+          "You validated their answer before proceeding"
+        ]}
+        completionMessage="Perfect! Momentum is maintained. Proceed to exclusivity positioning."
+      />
+    </div>
+  )
+},
+
+{
+  label: "Step 3: Exclusivity positioning",
+  content: (
+    <div className="space-y-4">
+      <div className="space-y-3 text-sm leading-relaxed">
+        <p className="text-slate-200">This line is not about truth, it's about perception.</p>
+        
+        <p className="text-slate-200">Saying you don't usually send moments like this reframes the PPV as personal and selective.</p>
+        
+        <p className="text-slate-200">Even if the content is reused, the fan feels chosen. That belief increases perceived value and makes them more receptive to what comes next.</p>
+      </div>
+      
+      <CopyPastePrompts 
+        prompts={[
+          "i dont usually send little moments like this… but something about our chat made me want to share it with you",
+          "honestly i dont share stuff like this with just anyone… but you made me feel comfortable",
+          "this might sound weird but… i feel like i can be myself with you in a way i cant with most people"
+        ]}
+      />
+      
+      <WhenThisWorked indicators={[
+        "They respond with emotional language ('that means a lot', 'im honored', etc.)",
+        "They double text or send multiple messages",
+        "They ask questions about you or the content"
+      ]} />
+      
+      <IfSkipped consequences={[
+        "The PPV feels generic and transactional",
+        "They don't feel special or chosen",
+        "The second PPV becomes much harder to sell"
+      ]} />
+    </div>
+  )
+},
+
+{
+  label: "Step 4: Rebuilding intimacy",
+  content: (
+    <div className="space-y-4">
+      <div className="space-y-3 text-sm leading-relaxed">
+        <p className="text-slate-200">After a transaction, intimacy drops unless you actively rebuild it.</p>
+        
+        <p className="text-slate-200">A short, flirty acknowledgement bridges the gap between "I paid" and "we're still flirting."</p>
+        
+        <p className="text-slate-200">This is where many chats die because writers mentally move on instead of staying present.</p>
+      </div>
+      
+      <CopyPastePrompts 
+        prompts={[
+          "mm im glad to hear that 😈",
+          "hehe good… that makes me happy 🥰",
+          "okay you're actually really sweet… i like this"
+        ]}
+      />
+      
+      <DecisionCheck conditions={[
+        { condition: "they respond warmly", action: "Proceed to visualization escalation" },
+        { condition: "they give short replies ('yeah', 'cool')", action: "Ask an open ended question to re engage" },
+        { condition: "they go silent", action: "Wait 10 min, then pivot to conversation (don't chase)" }
+      ]} />
+      
+      <IfSkipped consequences={[
+        "The intimacy gap widens",
+        "They feel like a transaction, not a connection",
+        "Most chats end here because the fan mentally checks out"
+      ]} />
+    </div>
+  )
+},
+
+{
+  label: "Step 5: Visualization escalation",
+  content: (
+    <div className="space-y-4">
+      <div className="space-y-3 text-sm leading-relaxed">
+        <p className="text-slate-200">This is where the chat shifts from reacting to content into painting a picture again.</p>
+        
+        <p className="text-slate-200">Asking about physical traits isn't random—it's guiding the fan's imagination into a shared scenario.</p>
+        
+        <p className="text-slate-200">You're slowly moving them from watching to picturing themselves involved, which is necessary before higher priced content will sell.</p>
+      </div>
+      
+      <CopyPastePrompts 
+        structure={[
+          "Ask a physical question (height, build, features)",
+          "Frame it as imagination ('im trying to imagine...')",
+          "Make it feel personal and spontaneous"
+        ]}
+        prompts={[
+          "so tell me… how tall are you? im trying to imagine what it'd be like if you were here",
+          "wait actually… are you more like athletic build or bigger? im picturing something in my head hehe",
+          "okay random but… what do your hands look like? i have a thing 🙈"
+        ]}
+      />
+      
+      <WatchFor signals={[
+        "They answer with detail instead of one word",
+        "They ask you a question back",
+        "They use flirty or curious language"
+      ]} />
+      
+      <OneLiner text="Escalation doesn't start with more explicit content. It starts with clearer mental pictures." />
+    </div>
+  )
+},
+
+{
+  label: "Step 6: Physical anchoring + freebie",
+  content: (
+    <div className="space-y-4">
+      <div className="space-y-3 text-sm leading-relaxed">
+        <p className="text-slate-200">Here, you anchor fantasy and reward engagement with a small free visual or sexual tease.</p>
+        
+        <p className="text-slate-200">This does three things at once: it keeps arousal high, reinforces that engaging gets rewarded, and conditions them to expect escalation.</p>
+        
+        <p className="text-slate-200">The key is restraint. The freebie should activate desire, not satisfy it.</p>
+      </div>
+      
+      <CopyPastePrompts 
+        prompts={[
+          "im only 5'4 hehe 🤭 now imagine pulling me back into your lap and holding me there for a second… would you suck on my tits or pinch my nipples to make me moan while we make out? 😈",
+          "mmm okay so if you were here right now… id be sitting on your lap facing you… what would your hands do first?",
+          "close your eyes and picture this… you walk in and catch me touching myself… do you watch or do you join?"
+        ]}
+      />
+      
+      <DoNotYet 
+        items={[
+          "Don't send explicit photos for free",
+          "Don't satisfy the fantasy fully",
+          "Don't ask them to send content back yet"
+        ]}
+        reason="The goal is to activate desire and create anticipation, not to climax the fantasy. If you satisfy them here, the next PPV becomes unnecessary."
+      />
+      
+      <IfSkipped consequences={[
+        "Arousal plateaus instead of building",
+        "They don't feel rewarded for engagement",
+        "The second PPV feels like it comes out of nowhere"
+      ]} />
+    </div>
+  )
+},
+
+{
+  label: "Step 7: Control seed",
+  content: (
+    <div className="space-y-4">
+      <div className="space-y-3 text-sm leading-relaxed">
+        <p className="text-slate-200">Asking them not to finish isn't about keeping them edging alone, it's about creating tension and signaling continuation.</p>
+        
+        <p className="text-slate-200">You're telling them, implicitly, that this moment isn't complete yet.</p>
+        
+        <p className="text-slate-200">That psychological "unfinished loop" is what makes the next PPV feel necessary instead of optional.</p>
+      </div>
+      
+      <CopyPastePrompts 
+        prompts={[
+          "promise me you wont cum to this next okay? 🙈",
+          "hands off for now… i want you edging for what comes next",
+          "youre not allowed to finish yet… im not done with you"
+        ]}
+      />
+      
+      <OneLiner text="Control language isn't about power. It's about creating anticipation for what comes next." />
+      
+      <WhenThisWorked indicators={[
+        "They respond with compliance ('okay', 'ill try', 'yes')",
+        "They ask what's next",
+        "They stay engaged instead of going quiet"
+      ]} />
+      
+      <Checklist 
+        items={[
+          "You've completed all 7 loop steps",
+          "The fan is still actively responding",
+          "You've planted the control seed",
+          "They're showing signs of continued engagement"
+        ]}
+        completionMessage="Loop complete! You're now ready to proceed to the second PPV with high probability of conversion."
+      />
+    </div>
+  )
+},
+
+{
+  label: "Visual example",
+  content: (
+    <div className="space-y-4">
+      <p className="text-slate-300 mb-4">
+        Here's a real conversation showing the complete flow from PPV framing through control seed. Notice how each step builds on the previous one without letting the conversation reset:
+      </p>
+      <div className="space-y-4">
+        <img 
+          src={exampleImage1} 
+          alt="Example conversation showing PPV framing and post unlock engagement" 
+          className="w-full rounded-lg border border-slate-700"
+        />
+        <img 
+          src={exampleImage2} 
+          alt="Example conversation showing visualization escalation and control seed" 
+          className="w-full rounded-lg border border-slate-700"
+        />
+      </div>
+      <p className="text-slate-400 text-sm mt-4">
+        Study how the writer maintains momentum at every step. The fan never gets a chance to mentally exit the experience. That's the difference between a $15 unlock that ends there and one that leads to $35+ naturally.
+      </p>
+      
+      <OneLiner text="This isn't sexting. This is experience management. You are controlling attention, pacing, imagination, and emotional investment. The content is just the vehicle." />
+    </div>
+  )
+}
+
+=== END NESTED ITEMS ===
+
+This pattern should be applied to:
+- STEP 3 (Second PPV)
+- STEP 4 (Third PPV)
+- STEP 5 (Fourth PPV)
+- OBJECTION HANDLING
+- POST CONVERSION RETENTION
+
+Each section needs:
+1. Framework overview as first nested item
+2. Step-by-step breakdown with actionable components
+3. Decision checks at key decision points
+4. Copy-paste prompts with structure guidance
+5. "If skipped" warnings for critical steps
+6. Watch for signals
+7. Micro-branches for conditional actions
+8. Checklists for sequential processes
